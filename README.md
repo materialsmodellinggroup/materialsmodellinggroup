@@ -1,1 +1,3 @@
-# Website of Materials Modelling Group at Indian Institute of Science, Bangalore, India
+This repository hosts the website of Materials Modelling Group at Indian Institute of Science, Bangalore, India.
+
+copyright: Materials Modelling Group, IISc
