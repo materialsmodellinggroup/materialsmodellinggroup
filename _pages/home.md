@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Materials Modelling Group - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Materials Modelling Group at IISc."
 sitemap: false
 permalink: /
 ---
