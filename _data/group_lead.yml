@@ -2,6 +2,9 @@
   photo: abhik-choudhury.jpg
   info: Associate professor
   email: abhiknc@iisc.ac.in
-  number_educ: 1
-  education1: PhD under <a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Britta Nestler</a> at <a href="https://www.iam.kit.edu/cms/english/5130.php">KIT</a> , Germany
+  number_educ: 2
+  education1: PhD from KIT, Germany
+  education2: BTech-MTech Dual Degree from IIT, Madras
+  
+  <!-- PhD under <a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Britta Nestler</a> at <a href="https://www.iam.kit.edu/cms/english/5130.php">KIT</a> , Germany -->
 
