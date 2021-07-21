@@ -18,7 +18,7 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 
 ### Master projects for IISc students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+If you are a Master student at IISc looking for a Master project, contact me (or any group member) per email or stop by my office.
 
 ### Master students from elsewhere
 If you are interested in pursuing a Master degree at Leiden University, see [IISc admissions](https://iisc.ac.in/admissions/). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
