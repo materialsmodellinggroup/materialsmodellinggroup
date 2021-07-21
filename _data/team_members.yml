@@ -2,57 +2,60 @@
   photo: shanmukha-kiran.jpg
   info: PhD, started Aug 2015
   email: shamukhaa@iisc.ac.in
-  info2: Exotic eutectic microstructures
+  topic: Exotic eutectic microstructures
   number_educ: 1
   education1: MTech in Metallurgical and Materials Engineering from IIT, Madras
-
-- name: Swapnil Bhure
-  photo: swapnil-bhure.jpg
-  info: PhD, started Jan 2020
-  email: swapnilbhure@iisc.ac.in
-  info2: Multi-scale modelling of additive manufacturing
-  number_educ: 1
-  education1: ME in Design Engineering from BITS, Pilani
   
 - name: Akshay Pratap Singh
   photo: 
   info: PhD, started Aug 2017
   email: akshaysingh@iisc.ac.in
-  info2: Directional solidification studies on monotectic systems
+  topic: Directional solidification studies on monotectic systems
   number_educ: 1
   education1: MTech in Metallurgical and Materials Engineering from IIT,BHU
+
+- name: Swapnil Bhure
+  photo: swapnil-bhure.jpg
+  info: PhD, started Jan 2020
+  email: swapnilbhure@iisc.ac.in
+  topic: Multi-scale modelling of metal additive manufacturing
+  number_educ: 1
+  education1: ME in Design Engineering from BITS, Pilani
+  
   
 - name: Divya Nalajala
   photo: 
   info: PhD, started Aug 2020
   email: divyan@iisc.ac.in
-  info2: Directional solidification studies on Ni based superalloy
+  topic: Directional solidification studies on Ni-based superalloy
   number_educ: 1
   education1: MTech in Metallurgical and Materials Engineering from IIT,Madras
-  
-- name: Ajay Sagar
-  photo: 
-  info: M.Tech, started Aug 2019
-  email: ajaysagar@iisc.ac.in
-  info2: 
-  number_educ: 1
-  education1: 
   
 - name: Tanmay Dutta
   photo: 
   info: Senior Project Associate, started May 2021
   email: tanmaydutta@iisc.ac.in
-  info2: Solidification and phase transformation
+  topic: Solidification and phase transformation
   number_educ: 1
   education1: PhD in Mechanical Engineering from IISc, Bangalore
   
+- name: Ajay Sagar
+  photo: 
+  info: Project Assistant, started July 2021
+  email: ajaysagar@iisc.ac.in
+  topic: 
+  number_educ: 1
+  education1: MTech in Materials Engineering from IISc, Bangalore
+  
+  
 - name: Sangeeta Paul
   photo: 
-  info: Project Assistant,
+  info: Project Assistant, started July 2021
   email: sangeetapaul@iisc.ac.in
   info2: 
   number_educ: 1
-  education1: 
+  education1: MTech in Materials Engineering from IISc, Bangalore
+  
   
   
   
