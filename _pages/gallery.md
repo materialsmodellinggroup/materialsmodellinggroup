@@ -2,7 +2,7 @@
 title: "Materials Modelling Group - Gallery"
 layout: piclay
 excerpt: "Materials Modelling Group -- Gallery"
-permalink: /pictures/
+permalink: /gallery/
 ---
 
 # Gallery
