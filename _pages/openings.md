@@ -25,5 +25,5 @@ If you are interested in pursuing a Master degree at Leiden University, see [IIS
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/vacancies-image.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vacancies-image.jpg" width="95%">
 </figure>
