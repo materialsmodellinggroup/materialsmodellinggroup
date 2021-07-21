@@ -90,13 +90,16 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i> 
-    {% if member.number_educ == 0 %}
+  
+    {% if member.number_topic == 0 %}
     {% endif %}
     {% if member.number_topic == 1 %}
-    Topic: {{ member.topic }}
+    <i>Topic: {{ member.topic }}</i>
     {% endif %}
     <ul style="overflow: hidden">
 
+      {% if member.number_educ == 0 %}
+    {% endif %}
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
