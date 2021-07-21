@@ -1,21 +1,38 @@
+- name: Sumeet Khanna
+  photo: sumeet-khanna.jpg
+  duration: PhD (2016 - 2021)
+  current: Now, Scientist at Garrett Motion Inc., Bengaluru
+  number_educ: 0
+
 - name: Fiyanshu Kaka
   photo: fiyanshu-kaka.jpg
-  duration: In Materials Modelling Group from 2015 - 2020
-  current: Now, Assistant Professor at PDPU, Gujarat
-  number_educ: 0
-  
-- name: Summet Khanna
-  photo: 
-  duration: In Materials Modelling Group from 2016 - 2020
-  current: Now, Scientist at Garrett Motion Inc.
+  duration: PhD (2015 - 2020)
+  current: Now, Assistant Professor at Pandit Dindayal Petroleum University, Gujarat
   number_educ: 0
   
 - name: Bhalchandra Bhadak
-  photo: 
-  duration: In Materials Modelling Group from 2014 - 2020
-  current: Now, Eaton 
+  photo: bhalchandra-bhadak.jpg
+  duration: PhD 2014 - 2020
+  current: Now, Senior Engineer at Eaton Research Labs, Eaton India Innovation Center, Pune
+  number_educ: 0
+  
+- name: Kartik Umate
+  photo: kartik-umate.jpg
+  duration: BS Thesis (2020 - 2021)
+  current: Now, Converted to BS-MS dual degree at IISc, Bangalore and doing MS thesis with Pratt & Whitney R&D Center under Prof. Karthikeyan S.
+  number_educ: 0
+
+- name: Bikramjit Karmakar
+  photo: bikramjit-karmakar.jpg
+  duration: BS-MS Dual Degree Thesis 2018 - 2020
+  current: Now, Margaret Ingels Engineering Development Program (MIEDP) Associate at Raytheon Technologies, Bengaluru
   number_educ: 0
   
   
-  
+- name: Ravi Kumar Singh
+  photo: ravi-kumar-singh.jpg
+  duration: MTech Thesis (2018 - 2019)
+  current: Now, Computational Scientist at ExxonMobil, Bengaluru
+  number_educ: 0
+
   
