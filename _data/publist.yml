@@ -21,7 +21,7 @@
 - title: "Equilibrium Multi-precipitate Configurations"
   image: 2020-equilibrium.webp
   description: In this paper, we formulate a phase-field model for the computation of equilibrium configurations of multiple phases that arise out of a solid-state precipitate reaction, in the presence of coherency stresses.
-  authors:     Bhalchandra Bhadak, Ravi Kumar Singh, Abhik Choudhury  
+  authors: Bhalchandra Bhadak, Ravi Kumar Singh, Abhik Choudhury  
   link:
     url: https://link.springer.com/article/10.1007%2Fs11661-020-05903-0
     display:  Metallurgical and Materials Transactions A volume 51, pages 5414–5431 (2020)
