@@ -93,8 +93,9 @@ permalink: /team/
   <br> 
     {% if member.number_educ == 0 %}
     {% endif %}
+    
     {% if member.number_topic == 1 %}
-    <i>Topic: {{ member.topic }}</i>
+    Topic: {{ member.topic }}
     {% endif %}
     
   <ul style="overflow: hidden">
