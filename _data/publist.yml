@@ -28,6 +28,16 @@
   highlight: 1
   news2:
   
+ - title: "Investigation of process–structure–property relationship in ternary organic photovoltaics"
+  image: 2020-process-structure.jpg
+  description: In this paper, we present an approach for deriving both the process–structure and structure–property correlations based on the diffuse-interface approach using phase-field simulations based on the Cahn–Hilliard formalism.
+  authors: Fiyanshu Kakaa, Sumeet Khanna, P. C. Ramamurthy and Abhik Choudhury
+  link:
+    url: https://aip.scitation.org/doi/10.1063/5.0020863
+    display:  Journal of Applied Physics 128, 145501 (2020)
+  highlight: 1
+  news2:
+  
   
 
 
