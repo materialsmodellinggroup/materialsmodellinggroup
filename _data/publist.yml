@@ -1,19 +1,19 @@
 - title: "Crystallographic and Morphological Evidence of Solid–Solid Interfacial Energy Anisotropy in the Sn-Zn Eutectic System"
   image: TBG_SL.png
   description: In this paper, we explore the morphological evolution during two-phase growth in the Sn-Zn eutectic system, which has a particularly low volume fraction of the minority Zn phase.
-  authors: Shanmukha Kiran Aramanda *, Sumeet Khanna, Sai Kiran Salapaka, Kamanio Chattopadhyay, Abhik Choudhury *
+  authors: Shanmukha Kiran Aramanda, Sumeet Khanna, Sai Kiran Salapaka, Kamanio Chattopadhyay, Abhik Choudhury 
   link:
     url: https://link.springer.com/article/10.1007/s11661-020-06007-5
     display:  Metallurgical and Materials Transactions A 51, 6387-6405 (2020)
   highlight: 1
   news2:
 - title: "Role of Solid–Solid Interfacial Energy Anisotropy in the Formation of Broken Lamellar Structures in Eutectic Systems"
-  image: TBG_SL.png
-  description: The objective of this work is to establish the role of solid–solid interfacial energy anisotropy in the stabilization of broken lamellar structures in systems where minority phase fraction is low in contrast to the formation of a rod microstructure using phase-field simulations 
-  authors: Sumeet Khanna, Shanmukha Kiran Aramanda, Abhik Choudhury *
+  image: role of anisotropy.webp
+  description: The objective of this work is to establish the role of solid–solid interfacial energy anisotropy in the stabilization of broken lamellar structures in systems, where minority phase fraction is low in contrast to the formation of a rod microstructure using phase-field simulations 
+  authors: Sumeet Khanna, Shanmukha Kiran Aramanda, Abhik Choudhury 
   link:
     url: https://link.springer.com/article/10.1007/s11661-020-05995-8
-    display:  Metallurgical and Materials Transactions A 51, 6327–6345 (2020)
+      display:  Metallurgical and Materials Transactions A 51, 6327–6345 (2020)
   highlight: 1
   news2:
 
