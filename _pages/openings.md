@@ -28,3 +28,5 @@ If you are a Bachelor or a Master student at IISc and looking for thesis project
 #### Master and PhD students from elsewhere
 If you are interested in pursuing a Master's or PhD degree at Indian Institute of Science, see [IISc admissions](https://iisc.ac.in/admissions/). 
 
+&nbsp;
+
