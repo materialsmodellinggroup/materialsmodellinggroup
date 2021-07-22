@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a research group in the [Department of Materials Engineering](https://materials.iisc.ac.in/) at the [Indian Institute of Science](http://www.iisc.ac.in), Bengaluru, India. Our group works on experimental and computational studies in directional solidification, metal additive manufacturing, microstructure evolution, pattern formation in self-organising system, multi-scale and phase field modelling for different phenomena.
+We are a research group in the [Department of Materials Engineering](https://materials.iisc.ac.in/) at the [Indian Institute of Science](http://www.iisc.ac.in), Bengaluru, India. Our group works on experimental and computational studies in directional solidification, metal additive manufacturing, microstructure evolution, pattern formation in self-organising systems, multi-scale and phase field modelling for different phenomena.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
