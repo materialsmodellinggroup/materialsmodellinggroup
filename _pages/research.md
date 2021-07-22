@@ -30,5 +30,5 @@ High Performance Computing Clusters: Total 288 physical processors
 
 Bridgman furnace: Total 4 (Two operates at high temperature and other two at low temperatures)
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/low-temperature.jpg){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/low-temperature.jpg){: style="width: 250px; float: center; margin: 0px"}
 
