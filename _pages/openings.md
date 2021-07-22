@@ -8,22 +8,18 @@ permalink: /vacancies
 
 # Open positions
 
-**Note: We currently have funding for additional PhD and postdoc positions. **
 
 We are always looking for new group members with passion, talent, and grit!
 
 
-### Applications for Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:abhiknc@iisc.ac.in). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+### Postdoc and Project Assistant positions
+If you are interested in working with us as a Postdoc or Project Assistant, please send an email to [Prof. Abhik Choudhury](mailto:abhiknc@iisc.ac.in) or contact any group members for more information. State briefly why you are interested and attach a CV. We take project assistants if we get exceptional applicants (this usually means good grades or research experience and a personal recommendation).
 
 
-### Master projects for IISc students
-If you are a Master student at IISc looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [IISc admissions](https://iisc.ac.in/admissions/). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+### Bachelor or Master projects for IISc students
+If you are a Bacholor or Master student at IISc looking for thesis project, contact [Prof. Abhik Choudhury](mailto:abhiknc@iisc.ac.in) or any group member per email or stop by the office or lab.
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/vacancies-image.jpg" width="95%">
-</figure>
+### Master and PhD students from elsewhere
+If you are interested in pursuing a Master degree or PhD at Indian Institute of Science, see [IISc admissions](https://iisc.ac.in/admissions/). 
+
