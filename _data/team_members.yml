@@ -1,11 +1,3 @@
-- name: <a href="https://scholar.google.co.in/citations?user=Jp5OWNcAAAAJ">Tanmay Dutta</a>
-  photo: tanmay-dutta.jpg
-  info: Senior Project Associate, started May 2021
-  email: tanmaydutta@iisc.ac.in
-  topic: Solidification and phase transformation
-  number_educ: 1
-  education1: PhD in Mechanical Engineering from IISc, Bangalore
-  
 - name: <a href="https://sites.google.com/site/askshanmukhakiran/">Aramanda Shanmukha Kiran</a>
   photo: shanmukha-kiran.jpg
   info: PhD, started Aug 2015
@@ -39,6 +31,14 @@
   number_educ: 1
   education1: M.Tech in Metallurgical and Materials Engineering from IIT,Madras
   
+- name: <a href="https://scholar.google.co.in/citations?user=Jp5OWNcAAAAJ">Tanmay Dutta</a>
+  photo: tanmay-dutta.jpg
+  info: Senior Project Associate, started May 2021
+  email: tanmaydutta@iisc.ac.in
+  topic: Solidification and phase transformation
+  number_educ: 1
+  education1: PhD in Mechanical Engineering from IISc, Bangalore
+
 - name: Ajay Sagar
   photo: ajay-sagar.jpg
   info: Project Assistant, started July 2021
