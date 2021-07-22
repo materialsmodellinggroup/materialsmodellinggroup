@@ -28,4 +28,4 @@ Study of solidification in monotectic, eutectic systems
 
 High Performance Computing Clusters: Total 288 physical processors
 
-Bridgman furnace: two high temperature, one low temperature
+Bridgman furnace: two high temperature, two low temperature
