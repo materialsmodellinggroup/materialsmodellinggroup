@@ -44,3 +44,7 @@ permalink: /gallery/
 {% endif %}
 
 <p> &nbsp; </p>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/image1.png" width="40%" >
+</figure>
