@@ -22,7 +22,7 @@ Integration of different modelling techniques.
 
 #### Directional Solidification
 
-Study of solidification in monotectic, eutectic systems
+Study of solidification in monotectic, eutectic systems and Ni based superalloys
 
 #### Facilities
 
