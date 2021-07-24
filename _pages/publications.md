@@ -9,10 +9,11 @@ permalink: /publications/
 
 # Publications
 
+##### Jump to [full list of publications](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=Lnzh5ZMAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Abhik-Choudhury-2))
+
+&nbsp;
 
 ### Group highlights
-
-##### Jump to [full list of publications](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=Lnzh5ZMAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Abhik-Choudhury-2))
 
 &nbsp;
 
