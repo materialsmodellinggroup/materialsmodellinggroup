@@ -9,12 +9,12 @@
 
 - name: <a href="https://sites.google.com/site/askshanmukhakiran/about-us">Aramanda Shanmukha Kiran</a>
   photo: shanmukha-kiran.jpg
-  info: |-2
-    Senior Project Associate, started June 2021 (PhD thesis submitted, June 2021)
+  info: Senior Project Associate, started June 2021
   email: shamukhaa[at]iisc[dot]ac[dot]in
   topic: Exotic eutectic microstructures
-  number_educ: 1
+  number_educ: 2
   education1: M.Tech, Metallurgical and Materials Engineering, IIT Madras
+  education2: PhD (thesis submitted, June 2021), Materials Engineering,  IISc Bangalore
   
 - name: Akshay Pratap Singh
   photo: akshay-pratap-singh.jpg
