@@ -4,7 +4,7 @@
   current: Now, Scientist at Garrett Motion Inc., Bengaluru
   number_educ: 0
 
-- name: Fiyanshu Kaka
+- name: <a href="https://orsp.pdpu.ac.in/adminfacviewprofile.aspx?facid=fiyanshu.kaka">Fiyanshu Kaka</a> 
   photo: fiyanshu-kaka.jpg
   duration: PhD (2015 - 2020)
   current: Now, Assistant Professor at Pandit Dindayal Petroleum University, Gujarat
@@ -14,6 +14,12 @@
   photo: bhalchandra-bhadak.jpg
   duration: PhD (2014 - 2020)
   current: Now, Senior Engineer at Eaton Research Labs, Eaton India Innovation Center, Pune
+  number_educ: 0
+  
+- name: Arka Lahiri
+  photo: Arka-Lahiri.jpg
+  duration: PhD (2018)
+  current: Now, Assistant professor at Department of Metallurgical and Materials Engineering, IIT Roorkee.
   number_educ: 0
   
 - name: Kartik Umate
