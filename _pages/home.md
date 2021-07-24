@@ -26,7 +26,7 @@ Our group works on experimental and computational studies in directional solidif
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/blue-mercedes.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/blue-mercedes.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2020-investigation-process-2.jpeg" alt="Slide 2" />
