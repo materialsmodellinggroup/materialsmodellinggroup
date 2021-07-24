@@ -1,3 +1,23 @@
+- title: "Three-Phase Eutectic Microstructures: Influence of Interfacial Energy Anisotropy and Solute Diffusivities"
+  image: 2021-3-phase-eutectics.jpg
+  description: In this paper, we study three dimensional microstructural evolution in a symmetric ternary three-phase eutectic alloy using phase-field simulations under directional solidification conditions. 
+  authors: Sumeet Khanna, Abhik Choudhury 
+  link:
+    url: https://link.springer.com/article/10.1007/s11661-021-06383-6
+    display:  Metallurgical and Materials Transactions A (2021)
+  highlight: 1
+  news2:
+
+- title: "Exotic colony formation in Sn-Te eutectic system"
+  image: 2020-exotic-colony.jpg
+  description: This paper examines in detail the origin of the evolution of complex patterns that arises due to a two-phase growth instability induced by impurity addition.
+  authors: Shanmukha Kiran Aramanda, Sai Kiran Salapaka, Sumeet Khanna, Kamanio Chattopadhyay, Abhik Choudhury
+  link:
+    url: https://doi.org/10.1016/j.actamat.2020.07.036
+    display:  Acta Materialia 197 (2020) 108-121
+  highlight: 1
+  news2:
+
 - title: "Role of Solid–Solid Interfacial Energy Anisotropy in the Formation of Broken Lamellar Structures in Eutectic Systems"
   image: 2020-role-solid.webp
   description: The objective of this work is to establish the role of solid–solid interfacial energy anisotropy in the stabilization of broken lamellar structures in systems, where minority phase fraction is low using phase-field simulations 
@@ -32,7 +52,7 @@
 - title: "Investigation of process–structure–property relationship in ternary organic photovoltaics"
   image: 2020-process-structure.jpg
   description: In this paper, we present an approach for deriving both the process–structure and structure–property correlations based on the diffuse-interface approach using phase-field simulations based on the Cahn–Hilliard formalism.
-  authors: Fiyanshu Kakaa, Sumeet Khanna, P. C. Ramamurthy and Abhik Choudhury
+  authors: Fiyanshu Kaka, Sumeet Khanna, P. C. Ramamurthy and Abhik Choudhury
   link:
     url: https://aip.scitation.org/doi/10.1063/5.0020863
     display:  Journal of Applied Physics 128, 145501 (2020)
