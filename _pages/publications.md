@@ -12,7 +12,7 @@ permalink: /publications/
 
 ### Group highlights
 
-##### (For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=Lnzh5ZMAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Abhik-Choudhury-2))
+##### Jump to [full list of publications](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=Lnzh5ZMAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Abhik-Choudhury-2))
 
 &nbsp;
 
@@ -61,7 +61,7 @@ permalink: /publications/
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
 -->
 
-## Full List of publications
+### Full List of publications
 
 {% for publi in site.data.publist %}
 
