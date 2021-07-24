@@ -30,6 +30,9 @@ Our group works on experimental and computational studies in directional solidif
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2020-investigation-process-2.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/three-phase-sumeet.png" alt="Slide 2" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/crackers.jpg" alt="Slide 3" />
         </div>
     </div>
