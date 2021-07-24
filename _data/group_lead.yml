@@ -1,10 +1,10 @@
-- name: Abhik Choudhury
+- name: Dr. Abhik Choudhury
   photo: abhik-choudhury.jpg
   info: Associate Professor
   email: abhiknc[at]iisc[dot]ac[dot]in
-  number_educ: 0
-  education1: PhD from KIT, Germany
-  education2: BTech-MTech Dual Degree from IIT, Madras 
+  number_educ: 2
+  education1: Ph.D. from KIT, Germany
+  education2: B.Tech/M.Tech (Dual Degree), IIT Madras 
   
   # PhD under <a href="https://www.iam.kit.edu/cms/english/Mitarbeiter_nestler.php">Britta Nestler</a> at <a href="https://www.iam.kit.edu/cms/english/5130.php">KIT</a> , Germany
 
