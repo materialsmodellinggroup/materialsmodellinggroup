@@ -10,9 +10,11 @@ permalink: /publications/
 # Publications
 
 
-## Group highlights
+### Group highlights
 
 ##### (For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=Lnzh5ZMAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Abhik-Choudhury-2))
+
+&nbsp;
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
