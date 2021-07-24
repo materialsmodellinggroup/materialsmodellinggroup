@@ -48,3 +48,7 @@ permalink: /gallery/
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/image1.png" width="40%" >
 </figure>
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/sumeet-kiran.JPG" width="40%" >
+</figure>
