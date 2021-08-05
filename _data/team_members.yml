@@ -1,7 +1,7 @@
 - name: <a href="https://scholar.google.co.in/citations?user=Jp5OWNcAAAAJ">Tanmay Dutta</a>
   photo: tanmay-dutta.jpg
   info: Senior Project Associate, started May 2021
-  email: tanmaydutta[at]iisc[dot]ac[dot]in
+  email: tanmaydutta@iisc.ac.in
   topic: Solidification and phase transformation
   number_educ: 1
   education1: PhD (thesis submitted, April 2021), Mechanical Engineering, IISc Bangalore
@@ -10,7 +10,7 @@
 - name: <a href="https://sites.google.com/site/askshanmukhakiran/about-us">Aramanda Shanmukha Kiran</a>
   photo: shanmukha-kiran.jpg
   info: Senior Project Associate, started June 2021
-  email: shamukhaa[at]iisc[dot]ac[dot]in
+  email: shamukhaa@iisc.ac.in
   topic: Directional solidification
   number_educ: 2
   education1: M.Tech, Metallurgical and Materials Engineering, IIT Madras
@@ -19,15 +19,15 @@
 - name: Akshay Pratap Singh
   photo: akshay-pratap-singh.jpg
   info: PhD, started Aug 2017
-  email: akshaysingh[at]iisc[dot]ac[dot]in
+  email: akshaysingh@iisc.ac.in
   topic:  Monotectic solidification
   number_educ: 1
   education1: M.Tech, Metallurgical and Materials Engineering, IIT BHU
 
-- name: Swapnil Bhure
+- name: <a href="https://swapnilbhure.github.io">Swapnil Bhure</a>
   photo: swapnil-bhure.jpg
   info: PhD, started Jan 2020
-  email: swapnilbhure[at]iisc[dot]ac[dot]in
+  email: swapnilbhure@iisc.ac.in
   topic: Multi-scale modelling of metal additive manufacturing
   number_educ: 1
   education1: ME, Design Engineering from BITS, Pilani
@@ -36,7 +36,7 @@
 - name: Divya Nalajala
   photo: divya-nalajala.JPG
   info: PhD, started Aug 2020
-  email: divyan[at]iisc[dot]ac[dot]in
+  email: divyan@iisc.ac.in
   topic: Directional solidification studies on Ni-based superalloy
   number_educ: 1
   education1: M.Tech, Metallurgical and Materials Engineering, IIT Madras 
@@ -47,7 +47,7 @@
     Project Assistant (started July 2021), 
     
     MTech Thesis (2020-21)
-  email: ajaysagar[at]iisc[dot]ac[dot]in
+  email: ajaysagar@iisc.ac.in
   topic: Integration of machine learning with phase field to study equilibrium precipitate shape
   number_educ: 1
   education1: M.Tech, Materials Engineering from IISc Bangalore
@@ -56,7 +56,7 @@
 - name: Sangeeta Paul
   photo: sangeeta-paul.jpg
   info: Project Assistant, started July 2021
-  email: sangeetapaul[at]iisc[dot]ac[dot]in
+  email: sangeetapaul@iisc.ac.in
   number_educ: 1
   education1: M.Tech, Materials Engineering, IISc Bangalore
   
