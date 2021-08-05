@@ -20,9 +20,9 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <br>
   <h3>{{ member.name }}</h3>
-  <h4><i>{{ member.info }}</h4> <br> email: {{ member.email | encode_email }}
+  <h4><i>{{ member.info }}</h4> <br> email: <a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>
   <ul style="overflow: hidden">
-
+    
   {% if member.number_educ == 0 %}
   {% endif %}
     
@@ -89,7 +89,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br>email: {{ member.email | encode_email }}</i> 
+  <i>{{ member.info }} <br>email: <a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>
+</i> 
   <br> Topic: {{ member.topic }}
   <ul style="overflow: hidden">
  
