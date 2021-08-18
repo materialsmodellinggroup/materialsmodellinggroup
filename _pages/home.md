@@ -51,5 +51,5 @@ Our group works on experimental and computational studies in directional solidif
 
 &nbsp;
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new Postdocs,PhD, Master and Bachelor students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
