@@ -7,9 +7,9 @@
 
 # Site settings
 title: Materials Modelling Group
-email: your-email@domain.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to materials modelling group website.
+  Welcome to website of Materials Modelling Group at IISc
 baseurl: ""
 url: ""
 
