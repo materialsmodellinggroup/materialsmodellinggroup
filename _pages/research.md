@@ -31,11 +31,9 @@ High-Performance Computing Clusters: 3 Nos. each with 96 physical cores adding u
 Bridgman furnace: Total 4 (Two operates at high temperature and other two at low temperatures)
 
 <p align="center">
-  <figure>
   <img src="/images/research/comp-lab-photo.jpg" width="60%" 
     alt="Computation Lab" />
-  <figcaption> Computation Lab </figcaption>
-  </figure>
+ <--- <figcaption> Computation Lab </figcaption> -->
 </p>
 
 <p align="center">
@@ -43,7 +41,6 @@ Bridgman furnace: Total 4 (Two operates at high temperature and other two at low
        alt="Cluster Room 1" />
   <img src="/images/research/cluster_inside_right.jpg" width="45%" 
        alt="Cluster Room 2" />
-  <figcaption> Cluster Room </figcaption>
 </p>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/low-temperature.jpg){: style="width: 250px; float: center; margin: 0px"}
