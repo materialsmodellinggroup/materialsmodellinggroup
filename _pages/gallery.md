@@ -44,9 +44,15 @@ permalink: /gallery/
 
 <p> &nbsp; </p>
 
-![33rd annual symposium](/images/picpic/image1.png "Kiran receiving the certificate") ![33rd annual symposium](/images/picpic/sumeet-kiran.JPG "Sumeet and Kiran") 
+<p align="center">
+  <img src="/images/picpic/image1.png" width="45%" />
+  <img src="/images/picpic/sumeet-kiran.JPG" width="45%" /> 
+</p>
+
+
 
 <!---
+![33rd annual symposium](/images/picpic/image1.png "Kiran receiving the certificate") ![33rd annual symposium](/images/picpic/sumeet-kiran.JPG "Sumeet and Kiran") 
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/image1.png" width="40%" >
