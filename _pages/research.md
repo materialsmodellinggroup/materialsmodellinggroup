@@ -26,9 +26,20 @@ Study of solidification in monotectic, eutectic systems and Ni based superalloys
 
 #### Facilities
 
-High Performance Computing Clusters: Total 288 physical processors
+High-Performance Computing Clusters: 3 Nos. each with 96 physical cores adding up to a total of 288 physical cores.
 
 Bridgman furnace: Total 4 (Two operates at high temperature and other two at low temperatures)
+
+<p align="center">
+  <img src="/images/research/comp-lab-photo.jpg" width="70%" />
+  <figcaption>Computation Lab</figcaption>
+</p>
+
+<p align="center">
+  <img src="/images/research/cluster_inside_left.jpg" width="450%" />
+  <img src="/images/research/cluster_inside_right.jpg" width="45%" />
+  <figcaption>Cluster room</figcaption>
+</p>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/low-temperature.jpg){: style="width: 250px; float: center; margin: 0px"}
 
