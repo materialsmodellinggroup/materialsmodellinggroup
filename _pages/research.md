@@ -33,7 +33,6 @@ Bridgman furnace: Total 4 (Two operates at high temperature and other two at low
 <p align="center">
   <img src="/images/research/comp-lab-photo.jpg" width="60%" 
     alt="Computation Lab" />
- <--- <figcaption> Computation Lab </figcaption> -->
 </p>
 
 <p align="center">
