@@ -7,7 +7,6 @@ permalink: /gallery/
 
 # Gallery
 
-(Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_IISc %}
 
@@ -45,6 +44,10 @@ permalink: /gallery/
 
 <p> &nbsp; </p>
 
+![33rd annual symposium](/images/picpic/image1.png "Kiran receiving the certificate") ![33rd annual symposium](/images/picpic/sumeet-kiran.JPG "Sumeet and Kiran") 
+
+<!---
+
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/image1.png" width="40%" >
 </figure>
@@ -52,3 +55,4 @@ permalink: /gallery/
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/sumeet-kiran.JPG" width="40%" >
 </figure>
+-->
