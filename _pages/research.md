@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-#### Computational Modelling
+### Computational Modelling
 
 Integrated Computational Materials Engineering (ICME)
 
@@ -20,11 +20,11 @@ Development of quantitative phase-field models for different phenomena.
 
 Integration of different modelling techniques.
 
-#### Directional Solidification
+### Directional Solidification
 
 Study of solidification in monotectic, eutectic systems and Ni based superalloys
 
-#### Facilities
+### Facilities
 
 High-Performance Computing Clusters: 3 Nos. each with 96 physical cores adding up to a total of 288 physical cores.
 
