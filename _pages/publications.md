@@ -11,6 +11,8 @@ permalink: /publications/
 
 ##### Jump to [full list of publications](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=Lnzh5ZMAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Abhik-Choudhury-2)
 
+##### You can access thesis of our lab members from our [GitHub repository](https://github.com/materialsmodellinggroup/Public-Resources/tree/main/Thesis).
+
 &nbsp;
 
 ### Group highlights
