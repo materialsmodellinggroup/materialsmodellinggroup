@@ -128,19 +128,16 @@ permalink: /team/
 
   </ul>
 </div>
-
+  
+<div class="col-sm-1 clearfix">  
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
 </div>
+</div>
 {% endif %}
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 
 
