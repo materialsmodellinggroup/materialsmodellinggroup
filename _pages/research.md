@@ -42,11 +42,9 @@ High-Performance Computing Clusters:
   <div class="row">
     <div class="col-md-4"> 
         <img src="/images/research/comp_lab.jpg" alt="Computational Lab">
-      </div>
     </div>
     <div class="col-md-8"> 
          <img src="/images/research/cluster_room.png" alt="Cluster Room">
-       </div>
     </div>
   </div>
 </div>
@@ -62,11 +60,9 @@ Bridgman furnaces:
   <div class="row">
     <div class="col-md-4">
         <img src="/images/research/low_temp_furnace.png" alt="Low Temperature Furnace">
-      </div>
     </div>
     <div class="col-md-8">  
         <img src="/images/research/high_temp_furnace.png" alt="High Temperature Furnace">
-      </div>
     </div>
   </div>
 </div>
