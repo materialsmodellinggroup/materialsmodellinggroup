@@ -38,21 +38,17 @@ High-Performance Computing Clusters:
   - Four NVIDIA Tesla V100-SXM2 32GB GPUs
 
 <div class="row">
-  <div class="col-sm-4 clearfix"> 
-    <div style="text-align: center;">
+  <div class="col-sm-4"> 
       <figure>
         <img src="/images/research/comp_lab.jpg" width="90%" alt="Computation Lab" >
           <figcaption>Computational Lab</figcaption>
       </figure> 
-    </div>
   </div>
-  <div class="col-sm-8 clearfix"> 
-    <div style="text-align: center;">
+  <div class="col-sm-8"> 
       <figure>
          <img src="/images/research/cluster_room.png" width="90%" alt="Cluster Room" >
          <figcaption>Cluster Room</figcaption>
       </figure> 
-    </div>
   </div>
 </div>
 
@@ -65,21 +61,17 @@ Bridgman furnaces:
 - Other two operate at low temperature (upto about 1000 deg C)
 
 <div class="row">
-  <div class="col-sm-4 clearfix">
-    <div style="text-align: center;">
+  <div class="col-sm-4">
       <figure>
         <img src="/images/research/low_temp_furnace.png" width="90%" alt="Low Temperature Furnace" >
           <figcaption>Low Temperature Furnace (upto 1000 &deg; C)</figcaption>
       </figure> 
-    </div>  
   </div>
-  <div class="col-sm-8 clearfix">  
-    <div style="text-align: center;">
+  <div class="col-sm-8">  
       <figure>
          <img src="/images/research/high_temp_furnace.png" width="90%" alt="High Temperature Furnace" >
          <figcaption>High Temperature Furnaces (upto 1800 &deg; C)</figcaption>
       </figure> 
-    </div>
   </div>
 </div>
 
