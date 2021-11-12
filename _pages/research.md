@@ -39,17 +39,22 @@ High-Performance Computing Clusters:
   - A total of 128 GB memory
 
 <div class="row">
-  <div class="col-sm-4"> 
-    <img src="/images/research/comp_lab.jpg" width="90%" alt="Computational Lab" >
-    <div class="caption">
-      <p>Computational Lab</p>
+  <div class="col-md-4"> 
+    <div class="thumbnail">
+      <img src="/images/research/comp_lab.jpg" style="width:100%" alt="Computational Lab">
+      <div class="caption">
+        <p>Computational Lab</p>
+      </div>
     </div>
   </div>
-  <div class="col-sm-8"> 
-     <img src="/images/research/cluster_room.png" width="90%" alt="Cluster Room" >
-      <div class="caption">
-        <p>Cluster Room</p>
-      </div>
+
+  <div class="col-md-8"> 
+     <div class="thumbnail">
+       <img src="/images/research/cluster_room.png" style="width:100%" alt="Cluster Room">
+        <div class="caption">
+          <p>Cluster Room</p>
+        </div>
+     </div>
   </div>
 </div>
 
@@ -62,16 +67,20 @@ Bridgman furnaces:
 - Other two operate at low temperature (upto about 1000&deg; C)
 
 <div class="row">
-  <div class="col-sm-4">
-    <img src="/images/research/low_temp_furnace.png" width="90%" alt="Low Temperature Furnace" >
-    <div class="caption">
-      <p>Low Temperature Furnace (upto 1000&deg; C)</p>
+  <div class="col-md-4">
+    <div class="thumbnail">
+      <img src="/images/research/low_temp_furnace.png" style="width:100%" alt="Low Temperature Furnace">
+      <div class="caption">
+        <p>Low Temperature Furnace (upto 1000&deg; C)</p>
+      </div>
     </div>
   </div>
-  <div class="col-sm-8">  
-    <img src="/images/research/high_temp_furnace.png" width="90%" alt="High Temperature Furnace" >
-    <div class="caption">
-      <p>High Temperature Furnaces (upto 1800&deg; C)</p>
+  <div class="col-md-8">  
+    <div class="thumbnail">
+      <img src="/images/research/high_temp_furnace.png" style="width:100%" alt="High Temperature Furnace">
+      <div class="caption">
+        <p>High Temperature Furnaces (upto 1800&deg; C)</p>
+      </div>
     </div>
   </div>
 </div>
