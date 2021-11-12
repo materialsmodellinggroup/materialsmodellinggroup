@@ -38,7 +38,7 @@ High-Performance Computing Clusters:
   - Four NVIDIA Tesla V100-SXM2 GPUs with 32GB memory each
   - A total of 128 GB memory
 
-<div class="container">
+<div class="container-fluid">
   <div class="row">
     <div class="col-md-4"> 
       <div class="thumbnail">
@@ -57,6 +57,7 @@ High-Performance Computing Clusters:
        </div>
     </div>
   </div>
+</div>
 
 #### Experimetal Facilities
 
@@ -65,6 +66,7 @@ Bridgman furnaces:
 - Two operates at high temperature (upto about 1800&deg; C)
 - Other two operate at low temperature (upto about 1000&deg; C)
 
+<div class="container-fluid">
   <div class="row">
     <div class="col-md-4">
       <div class="thumbnail">
