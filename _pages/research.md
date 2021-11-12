@@ -50,12 +50,6 @@ Bridgman furnaces:
 - Two operates at high temperature (upto about 1800&deg; C)
 - Other two operate at low temperature (upto about 1000&deg; C)
 
-<div class="row">
-  <div class="col-sm-4 clearfix">
-      <img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:33.33%" alt="Low Temperature Furnace">
-  </div>
-  <div class="col-sm-8 clearfix">  
-      <img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:66.66%" alt="High Temperature Furnace">
-  </div>
-</div>
+<img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:33.33%" alt="Low Temperature Furnace">
+<img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:66.66%" alt="High Temperature Furnace">
 
