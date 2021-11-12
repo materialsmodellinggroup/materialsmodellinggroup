@@ -39,14 +39,8 @@ High-Performance Computing Clusters:
   - A total of 128 GB memory
 
 
-<div class="row">
-  <div class="col-sm-4 clearfix"> 
-      <img src="/images/research/comp_lab.jpg" style="width:100%" alt="Computational Lab">
-  </div>
-  <div class="col-sm-8 clearfix"> 
-       <img src="/images/research/cluster_room.png" style="width:100%" alt="Cluster Room">
-  </div>
-</div>
+<img src="/images/research/comp_lab.jpg" style="width:33.33%" alt="Computational Lab">
+<img src="/images/research/cluster_room.png" style="width:66.66%" alt="Cluster Room">
 
 
 #### Experimetal Facilities
