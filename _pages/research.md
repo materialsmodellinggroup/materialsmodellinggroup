@@ -57,7 +57,6 @@ High-Performance Computing Clusters:
        </div>
     </div>
   </div>
-</div>
 
 #### Experimetal Facilities
 
@@ -66,7 +65,6 @@ Bridgman furnaces:
 - Two operates at high temperature (upto about 1800&deg; C)
 - Other two operate at low temperature (upto about 1000&deg; C)
 
-<div class="container">
   <div class="row">
     <div class="col-md-4">
       <div class="thumbnail">
