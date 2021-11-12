@@ -40,10 +40,10 @@ High-Performance Computing Clusters:
 
 
 <div class="row">
-  <div class="col-sm-4"> 
+  <div class="col-sm-4 clearfix"> 
       <img src="/images/research/comp_lab.jpg" style="width:100%" alt="Computational Lab">
   </div>
-  <div class="col-sm-8"> 
+  <div class="col-sm-8 clearfix"> 
        <img src="/images/research/cluster_room.png" style="width:100%" alt="Cluster Room">
   </div>
 </div>
@@ -57,10 +57,10 @@ Bridgman furnaces:
 - Other two operate at low temperature (upto about 1000&deg; C)
 
 <div class="row">
-  <div class="col-sm-4">
+  <div class="col-sm-4 clearfix">
       <img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:33.33%" alt="Low Temperature Furnace">
   </div>
-  <div class="col-sm-8">  
+  <div class="col-sm-8 clearfix">  
       <img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:66.66%" alt="High Temperature Furnace">
   </div>
 </div>
