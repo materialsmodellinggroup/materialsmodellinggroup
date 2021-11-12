@@ -20,25 +20,66 @@ Development of quantitative phase-field models for different phenomena.
 
 Integration of different modelling techniques.
 
+
 ### Directional Solidification
 
 Study of solidification in monotectic, eutectic systems and Ni based superalloys
 
-### Facilities
+#### Computational Facilities
 
-High-Performance Computing Clusters: 3 Nos. each with 96 physical cores adding up to a total of 288 physical cores.
+High-Performance Computing Clusters: 
 
-Bridgman furnace: Total 4 (Two operates at high temperature and other two at low temperatures)
+1. CPU Cluster:
+  - Two clusters have 96 physical cores each
+  - One cluster has 112 physical cores 
+  - Total of 304 physical cores
 
-<p align="center">
-  <img src="/images/research/comp-lab-photo.jpg" width="60%" 
-    alt="Computation Lab" />
-</p>
+2. GPU Cluster:
+  - Four NVIDIA Tesla V100-SXM2 32GB GPUs
 
-<p align="center">
-  <img src="/images/research/cluster_inside_left.jpg" width="45%" 
-       alt="Cluster Room 1" />
-  <img src="/images/research/cluster_inside_right.jpg" width="45%" 
-       alt="Cluster Room 2" />
-</p>
+<div class="row">
+  <div class="col-sm-4 clearfix"> 
+    <div style="text-align: center;">
+      <figure>
+        <img src="/images/research/comp_lab.jpg" width="90%" alt="Computation Lab" >
+          <figcaption>Computational Lab</figcaption>
+      </figure> 
+    </div>
+  </div>
+  <div class="col-sm-8 clearfix"> 
+    <div style="text-align: center;">
+      <figure>
+         <img src="/images/research/cluster_room.png" width="90%" alt="Cluster Room" >
+         <figcaption>Cluster Room</figcaption>
+      </figure> 
+    </div>
+  </div>
+</div>
+
+
+#### Experimetal Facilities
+
+Bridgman furnaces: 
+- Total four furnaces 
+- Two operates at high temperature (upto about 1800 deg C)
+- Other two operate at low temperature (upto about 1000 deg C)
+
+<div class="row">
+  <div class="col-sm-4 clearfix">
+    <div style="text-align: center;">
+      <figure>
+        <img src="/images/research/low_temp_furnace.png" width="90%" alt="Low Temperature Furnace" >
+          <figcaption>Low Temperature Furnace (upto 1000 &deg; C)</figcaption>
+      </figure> 
+    </div>  
+  </div>
+  <div class="col-sm-8 clearfix">  
+    <div style="text-align: center;">
+      <figure>
+         <img src="/images/research/high_temp_furnace.png" width="90%" alt="High Temperature Furnace" >
+         <figcaption>High Temperature Furnaces (upto 1800 &deg; C)</figcaption>
+      </figure> 
+    </div>
+  </div>
+</div>
 
