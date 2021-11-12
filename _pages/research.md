@@ -38,26 +38,27 @@ High-Performance Computing Clusters:
   - Four NVIDIA Tesla V100-SXM2 GPUs with 32GB memory each
   - A total of 128 GB memory
 
-<div class="row">
-  <div class="col-md-4"> 
-    <div class="thumbnail">
-      <img src="/images/research/comp_lab.jpg" style="width:100%" alt="Computational Lab">
-      <div class="caption">
-        <p>Computational Lab</p>
+<div class="container">
+  <div class="row">
+    <div class="col-md-4"> 
+      <div class="thumbnail">
+        <img src="/images/research/comp_lab.jpg" style="width:100%" alt="Computational Lab">
+        <div class="caption">
+          <p>Computational Lab</p>
+        </div>
       </div>
     </div>
-  </div>
-
-  <div class="col-md-8"> 
-     <div class="thumbnail">
-       <img src="/images/research/cluster_room.png" style="width:100%" alt="Cluster Room">
-        <div class="caption">
-          <p>Cluster Room</p>
-        </div>
-     </div>
+    
+    <div class="col-md-8"> 
+       <div class="thumbnail">
+         <img src="/images/research/cluster_room.png" style="width:100%" alt="Cluster Room">
+          <div class="caption">
+            <p>Cluster Room</p>
+          </div>
+       </div>
+    </div>
   </div>
 </div>
-
 
 #### Experimetal Facilities
 
@@ -66,20 +67,22 @@ Bridgman furnaces:
 - Two operates at high temperature (upto about 1800&deg; C)
 - Other two operate at low temperature (upto about 1000&deg; C)
 
-<div class="row">
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <img src="/images/research/low_temp_furnace.png" style="width:100%" alt="Low Temperature Furnace">
-      <div class="caption">
-        <p>Low Temperature Furnace (upto 1000&deg; C)</p>
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail">
+        <img src="/images/research/low_temp_furnace.png" style="width:100%" alt="Low Temperature Furnace">
+        <div class="caption">
+          <p>Low Temperature Furnace (upto 1000&deg; C)</p>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="col-md-8">  
-    <div class="thumbnail">
-      <img src="/images/research/high_temp_furnace.png" style="width:100%" alt="High Temperature Furnace">
-      <div class="caption">
-        <p>High Temperature Furnaces (upto 1800&deg; C)</p>
+    <div class="col-md-8">  
+      <div class="thumbnail">
+        <img src="/images/research/high_temp_furnace.png" style="width:100%" alt="High Temperature Furnace">
+        <div class="caption">
+          <p>High Temperature Furnaces (upto 1800&deg; C)</p>
+        </div>
       </div>
     </div>
   </div>
