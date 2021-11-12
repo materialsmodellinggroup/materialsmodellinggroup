@@ -48,7 +48,6 @@ High-Performance Computing Clusters:
         </div>
       </div>
     </div>
-    
     <div class="col-md-8"> 
        <div class="thumbnail">
          <img src="/images/research/cluster_room.png" style="width:100%" alt="Cluster Room">
