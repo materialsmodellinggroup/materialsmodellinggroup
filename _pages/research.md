@@ -41,10 +41,10 @@ High-Performance Computing Clusters:
 
 <div class="row">
   <div class="col-md-4"> 
-      <img src="/images/research/comp_lab.jpg" alt="Computational Lab">
+      <img src="/images/research/comp_lab.jpg" width="90%" alt="Computational Lab">
   </div>
   <div class="col-md-8"> 
-       <img src="/images/research/cluster_room.png" alt="Cluster Room">
+       <img src="/images/research/cluster_room.png" width="90%" alt="Cluster Room">
   </div>
 </div>
 
