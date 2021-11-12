@@ -29,26 +29,27 @@ Study of solidification in monotectic, eutectic systems and Ni based superalloys
 
 High-Performance Computing Clusters: 
 
-1. CPU Cluster:
+- CPU Clusters:
   - Two clusters have 96 physical cores each
   - One cluster has 112 physical cores 
-  - Total of 304 physical cores
+  - A total of 304 physical cores
 
-2. GPU Cluster:
-  - Four NVIDIA Tesla V100-SXM2 32GB GPUs
+- GPU Cluster:
+  - Four NVIDIA Tesla V100-SXM2 GPUs with 32GB memory each
+  - A total of 128 GB memory
 
 <div class="row">
   <div class="col-sm-4"> 
-      <figure>
-        <img src="/images/research/comp_lab.jpg" width="90%" alt="Computation Lab" >
-          <figcaption>Computational Lab</figcaption>
-      </figure> 
+    <img src="/images/research/comp_lab.jpg" width="90%" alt="Computational Lab" >
+    <div class="caption">
+      <p>Computational Lab</p>
+    </div>
   </div>
   <div class="col-sm-8"> 
-      <figure>
-         <img src="/images/research/cluster_room.png" width="90%" alt="Cluster Room" >
-         <figcaption>Cluster Room</figcaption>
-      </figure> 
+     <img src="/images/research/cluster_room.png" width="90%" alt="Cluster Room" >
+      <div class="caption">
+        <p>Cluster Room</p>
+      </div>
   </div>
 </div>
 
@@ -57,21 +58,21 @@ High-Performance Computing Clusters:
 
 Bridgman furnaces: 
 - Total four furnaces 
-- Two operates at high temperature (upto about 1800 deg C)
-- Other two operate at low temperature (upto about 1000 deg C)
+- Two operates at high temperature (upto about 1800&deg; C)
+- Other two operate at low temperature (upto about 1000&deg; C)
 
 <div class="row">
   <div class="col-sm-4">
-      <figure>
-        <img src="/images/research/low_temp_furnace.png" width="90%" alt="Low Temperature Furnace" >
-          <figcaption>Low Temperature Furnace (upto 1000 &deg; C)</figcaption>
-      </figure> 
+    <img src="/images/research/low_temp_furnace.png" width="90%" alt="Low Temperature Furnace" >
+    <div class="caption">
+      <p>Low Temperature Furnace (upto 1000&deg; C)</p>
+    </div>
   </div>
   <div class="col-sm-8">  
-      <figure>
-         <img src="/images/research/high_temp_furnace.png" width="90%" alt="High Temperature Furnace" >
-         <figcaption>High Temperature Furnaces (upto 1800 &deg; C)</figcaption>
-      </figure> 
+    <img src="/images/research/high_temp_furnace.png" width="90%" alt="High Temperature Furnace" >
+    <div class="caption">
+      <p>High Temperature Furnaces (upto 1800&deg; C)</p>
+    </div>
   </div>
 </div>
 
