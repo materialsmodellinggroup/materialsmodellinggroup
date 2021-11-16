@@ -59,12 +59,13 @@ We work on various solidification and phase transformation problems listed below
       <li>A total of 128 GB memory</li>
     </ul>
 </ul>
+
 <h4>Experimental Facilities</h4>
-  <h6>Bridgman furnaces:</h6>
-    <ul>
-      <li>Two high temperature furnaces (upto about 1800&deg; C)</li>
-      <li>Two low temperature furnaces (upto about 1000&deg; C)</li>
-    </ul>
+<h6>Bridgman furnaces:</h6>
+<ul>
+  <li>Two high temperature furnaces (upto about 1800&deg; C)</li>
+  <li>Two low temperature furnaces (upto about 1000&deg; C)</li>
+</ul>
 
 <img src="/images/research/comp_lab.jpg" style="width:40%" alt="Computational Lab">
 <img src="/images/research/cluster_room.png" style="width:80%" alt="Cluster Room">
