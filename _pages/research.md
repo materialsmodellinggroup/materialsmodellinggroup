@@ -65,17 +65,10 @@ We work on various solidification and phase transformation problems listed below
       <li>Two high temperature furnaces (upto about 1800&deg; C)</li>
       <li>Two low temperature furnaces (upto about 1000&deg; C)</li>
     </ul>
-<div class="col-sm-5">
-  <img src="/images/research/comp_lab.jpg" style="width:95%" alt="Computational Lab">
-</div>
-<div class="col-sm-7">
-  <img src="/images/research/cluster_room.png" style="width:95%" alt="Cluster Room">
-</div>
 
-<div class="col-sm-4">
-  <img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:95%" alt="Low Temperature Furnace">
-</div>
-<div class="col-sm-8">
-  <img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:95%" alt="High Temperature Furnace">
-</div>
+<img src="/images/research/comp_lab.jpg" style="width:40%" alt="Computational Lab">
+<img src="/images/research/cluster_room.png" style="width:80%" alt="Cluster Room">
+
+<img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:40%" alt="Low Temperature Furnace">
+<img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:80%" alt="High Temperature Furnace">
 
