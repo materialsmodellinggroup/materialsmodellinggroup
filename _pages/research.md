@@ -10,7 +10,6 @@ permalink: /research/
 
 We work on various solidification and phase transformation problems listed below (but not limited to):
 
-<div class="col-sm-4">
   <h5>Directional solidification</h5>
   <p>Experimental and computational studies in:</p>
   <ul>
@@ -18,39 +17,26 @@ We work on various solidification and phase transformation problems listed below
     <li>Monotectic systems</li>
     <li>Ni-based superalloy</li>
   </ul>
-</div>
-<div class="col-sm-4">
   <h5>Additive manufacturing</h5>
   <ul>
     <li>Multi-scale modelling</li>
     <li>3D printing and characterization</li>
   </ul>
-</div>
-<div class="col-sm-4">
   <h5>Precipitation</h5>
   <ul>
     <li>Equilibrium shapes of precipitates</li>
     <li>Growth instabilities in presence of coherency stresses</li>
   </ul>
-</div>
 
-<div class="col-sm-2">
-</div>
-<div class="col-sm-4">
   <h5>Organic Photovoltaics</h5>
   <ul>
     <li>Numerical and experimental work</li>
     <li>process-structure-property relationships</li>
   </ul>
-</div>
-<div class="col-sm-4">
   <h5>Atomization</h5>
   <ul>
     <li>Process optimization for metal powder manufacturing</li>
   </ul>
-</div>
-<div class="col-sm-2">
-</div>
   
 ###### We are not limited to above areas and are open to work in other areas of phase transformations including polymers, electrostatics, magnetism, etc. based on funding and student's interest.
 
