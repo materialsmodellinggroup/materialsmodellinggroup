@@ -8,10 +8,9 @@ permalink: /research/
 
 # Research
 
-<div class="container">
+
   <div class="row">
     <div class="col-6">
-      
       <h3>Computational</h3>
       
       Integrated Computational Materials Engineering (ICME)
@@ -27,14 +26,13 @@ permalink: /research/
     </div>
 
     <div class="col-6">
-    
       <h3>Experimental</h3>
 
       Study of solidification in monotectic, eutectic systems and Ni based superalloys
 
     </div>
   </div>
-</div>
+
 
     
 #### Computational Facilities
