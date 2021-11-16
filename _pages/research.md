@@ -1,6 +1,6 @@
 ---
 title: "Materials Modelling Group - Research"
-layout: research
+layout: default
 excerpt: "Materials Modelling Group -- Research"
 sitemap: false
 permalink: /research/
