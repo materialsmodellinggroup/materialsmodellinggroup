@@ -57,7 +57,7 @@ We work on various solidification and phase transformation problems listed below
   </div>
 </div>
   
-<h6>We are not limited to above areas and are open to work in other areas of phase transformations including polymers, electrostatics, magnetism, etc. based on funding and student's interest.
+<h6>We are not limited to above areas and are open to work in other areas of phase transformations including polymers, electrostatics, magnetism, etc. based on funding and student's interest.</h6>
 
 <div class="row">  
   <div class="col-sm-6">
