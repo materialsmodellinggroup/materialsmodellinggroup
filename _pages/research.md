@@ -10,7 +10,6 @@ permalink: /research/
 
 We work on various solidification and phase transformation problems listed below (but not limited to):
 
-<div class="row">
   <div class="col-sm-4">
     <h5>Directional solidification</h5>
     <p>Experimental and computational studies in:</p>
@@ -34,9 +33,7 @@ We work on various solidification and phase transformation problems listed below
       <li>Growth instabilities in presence of coherency stresses</li>
     </ul>
   </div>
-</div>
 
-<div class="row">
   <div class="col-sm-2">
   </div>
   <div class="col-sm-4">
@@ -54,7 +51,6 @@ We work on various solidification and phase transformation problems listed below
   </div>
   <div class="col-sm-2">
   </div>
-</div>
   
 <h6>We are not limited to above areas and are open to work in other areas of phase transformations including polymers, electrostatics, magnetism, etc. based on funding and student's interest.</h6>
 
