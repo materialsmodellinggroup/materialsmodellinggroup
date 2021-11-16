@@ -10,7 +10,6 @@ permalink: /research/
 
 We work on various solidification and phase transformation problems listed below (but not limited to):
 
-<div class="container-fluid">
 <div class="row">
   <div class="col-sm-4">
     <h5>Directional solidification</h5>
@@ -100,6 +99,5 @@ We work on various solidification and phase transformation problems listed below
   <div class="col-sm-8">
     <img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:95%" alt="High Temperature Furnace">
   </div>
-</div>
 </div>
 
