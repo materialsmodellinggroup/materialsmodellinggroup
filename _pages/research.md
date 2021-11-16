@@ -10,7 +10,7 @@ permalink: /research/
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-6 clearfix">
+    <div class="col-6">
       
       <h3>Computational</h3>
       
@@ -26,7 +26,7 @@ permalink: /research/
 
     </div>
 
-    <div class="col-sm-6 clearfix">
+    <div class="col-6">
     
       <h3>Experimental</h3>
 
