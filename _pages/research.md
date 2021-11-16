@@ -8,23 +8,35 @@ permalink: /research/
 
 # Research
 
-### Computational Modelling
+<div class="row">
 
-Integrated Computational Materials Engineering (ICME)
+  <div class="col-sm-6 clearfix">
 
-Metal additive manufacturing
+    <h3> Computational Modelling </h3>
 
-Study of pattern formation in self-organizing systems occurring during phase transformations such as solidification, electrochemical reactions and other transformations with elastic and magneto-elastic coupling.
+    Integrated Computational Materials Engineering (ICME)
 
-Development of quantitative phase-field models for different phenomena.
+    Metal additive manufacturing
 
-Integration of different modelling techniques.
+    Study of pattern formation in self-organizing systems occurring during phase transformations such as solidification, electrochemical reactions and other transformations with elastic and magneto-elastic coupling.
 
+    Development of quantitative phase-field models for different phenomena.
 
-### Directional Solidification
+    Integration of different modelling techniques.
 
-Study of solidification in monotectic, eutectic systems and Ni based superalloys
+  </div>
 
+  <div class="col-sm-6 clearfix">
+    
+    <h3> Directional Solidification </h3>
+
+    Study of solidification in monotectic, eutectic systems and Ni based superalloys
+
+  </div>
+
+</div>
+
+    
 #### Computational Facilities
 
 High-Performance Computing Clusters: 
@@ -43,7 +55,7 @@ High-Performance Computing Clusters:
 <img src="/images/research/cluster_room.png" style="width:66.66%" alt="Cluster Room">
 
 
-#### Experimetal Facilities
+#### Experimental Facilities
 
 Bridgman furnaces: 
 - Total four furnaces 
