@@ -8,32 +8,32 @@ permalink: /research/
 
 # Research
 
-<div class="row">
+<div class="container">
+  <div class="row">
+    <div class="col-sm-6 clearfix">
+      
+      <h3>Computational</h3>
+      
+      Integrated Computational Materials Engineering (ICME)
 
-  <div class="col-sm-6 clearfix">
+      Metal additive manufacturing
 
-    <h3> Computational Modelling </h3>
+      Study of pattern formation in self-organizing systems occurring during phase transformations such as solidification, electrochemical reactions and other transformations with elastic and magneto-elastic coupling.
 
-    Integrated Computational Materials Engineering (ICME)
+      Development of quantitative phase-field models for different phenomena.
 
-    Metal additive manufacturing
+      Integration of different modelling techniques.
 
-    Study of pattern formation in self-organizing systems occurring during phase transformations such as solidification, electrochemical reactions and other transformations with elastic and magneto-elastic coupling.
+    </div>
 
-    Development of quantitative phase-field models for different phenomena.
-
-    Integration of different modelling techniques.
-
-  </div>
-
-  <div class="col-sm-6 clearfix">
+    <div class="col-sm-6 clearfix">
     
-    <h3> Directional Solidification </h3>
+      <h3>Experimental</h3>
 
-    Study of solidification in monotectic, eutectic systems and Ni based superalloys
+      Study of solidification in monotectic, eutectic systems and Ni based superalloys
 
+    </div>
   </div>
-
 </div>
 
     
