@@ -64,28 +64,47 @@ We work on various solidification and phase transformation problems listed below
 
 &nbsp;
 
-<h4>Computational Facilities</h4>
-<h6>High-Performance Computing Clusters:</h6>
-<ul>
-  <li>CPU Clusters:</li>
-    <ul>
-      <li>Two clusters have 96 physical cores each</li>
-      <li>One cluster has 112 physical cores</li>
-      <li>A total of 304 physical cores</li>
-    </ul>
-  <li>GPU Cluster:</li>
-    <ul>
-      <li>Four NVIDIA Tesla V100-SXM2 GPUs with 32GB memory each</li>
-      <li>A total of 128 GB memory</li>
-    </ul>
-</ul>
+<table class="table">
+  <thead>
+    <tr>
+      <th class="text-center" scope="col">Computational Facilities</th>
+      <th class="text-center" scope="col">Experimental Facilities</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p>High-Performance Computing Clusters:</p>
+        <ul>
+          <li>CPU Clusters:</li>
+            <ul>
+              <li>Two clusters have 96 physical cores each</li>
+              <li>One cluster has 112 physical cores</li>
+              <li>A total of 304 physical cores</li>
+            </ul>
+          <li>GPU Cluster:</li>
+            <ul>
+              <li>Four NVIDIA Tesla V100-SXM2 GPUs with 32GB memory each</li>
+              <li>A total of 128 GB memory</li>
+            </ul>
+        </ul>
+      </td>
+      <td>
+        <p>Bridgman furnaces:</p>
+        <ul>
+          <li>Two high temperature furnaces (upto about 1800&deg; C)</li>
+          <li>Two low temperature furnaces (upto about 1000&deg; C)</li>
+        </ul> 
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h4>Experimental Facilities</h4>
-<h6>Bridgman furnaces:</h6>
-<ul>
-  <li>Two high temperature furnaces (upto about 1800&deg; C)</li>
-  <li>Two low temperature furnaces (upto about 1000&deg; C)</li>
-</ul>
+<p float="left">
+  <img src="/images/research/comp_lab.jpg" width="100" />
+  <img src="/images/research/cluster_room.png" width="100" /> 
+</p>
+
 
 <img src="/images/research/comp_lab.jpg" style="width:40%" alt="Computational Lab">
 <img src="/images/research/cluster_room.png" style="width:80%" alt="Cluster Room">
