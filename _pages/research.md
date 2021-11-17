@@ -13,63 +13,49 @@ We work on various solidification and phase transformation problems listed below
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Directional solidification</th>
+      <th scope="col">Additive manufacturing</th>
+      <th scope="col">Precipitation</th>
+      <th scope="col">Organic Photovoltaics</th>
+      <th scope="col">Atomization</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
+      <td>
+        <p>Experimental and computational studies in:</p>
+        <ul>
+          <li>Eutectic systems</li>
+          <li>Monotectic systems</li>
+          <li>Ni-based superalloy</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Multi-scale computational modelling</li>
+          <li>Experimental 3D printing and characterization</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Equilibrium shapes of precipitates</li>
+          <li>Growth instabilities in presence of coherency stresses</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Numerical and experimental work</li>
+          <li>process-structure-property relationships</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Process optimization for metal powder manufacturing</li>
+        </ul>
+      </td>  
     </tr>
   </tbody>
 </table>
-
-
-
-<h5>Directional solidification</h5>
-<p>Experimental and computational studies in:</p>
-<ul>
-  <li>Eutectic systems</li>
-  <li>Monotectic systems</li>
-  <li>Ni-based superalloy</li>
-</ul>
-<h5>Additive manufacturing</h5>
-<ul>
-  <li>Multi-scale modelling</li>
-  <li>3D printing and characterization</li>
-</ul>
-<h5>Precipitation</h5>
-<ul>
-  <li>Equilibrium shapes of precipitates</li>
-  <li>Growth instabilities in presence of coherency stresses</li>
-</ul>
-
-<h5>Organic Photovoltaics</h5>
-<ul>
-  <li>Numerical and experimental work</li>
-  <li>process-structure-property relationships</li>
-</ul>
-<h5>Atomization</h5>
-<ul>
-  <li>Process optimization for metal powder manufacturing</li>
-</ul>
 
 &nbsp;
 
