@@ -67,8 +67,8 @@ We work on various solidification and phase transformation problems listed below
 <table class="table">
   <thead>
     <tr>
-      <th class="text-center" scope="col">Computational Facilities</th>
-      <th class="text-center" scope="col">Experimental Facilities</th>
+      <th scope="col">Computational Facilities</th>
+      <th scope="col">Experimental Facilities</th>
     </tr>
   </thead>
   <tbody>
@@ -101,14 +101,12 @@ We work on various solidification and phase transformation problems listed below
 </table>
 
 <p float="left">
-  <img src="/images/research/comp_lab.jpg" width="100" />
-  <img src="/images/research/cluster_room.png" width="100" /> 
+  <img src="/images/research/comp_lab.jpg" style="width:40%" alt="Computational Lab"/>
+  <img src="/images/research/cluster_room.png" style="width:80%" alt="Cluster Room"/>
 </p>
 
-
-<img src="/images/research/comp_lab.jpg" style="width:40%" alt="Computational Lab">
-<img src="/images/research/cluster_room.png" style="width:80%" alt="Cluster Room">
-
-<img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:40%" alt="Low Temperature Furnace">
-<img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:80%" alt="High Temperature Furnace">
+<p> float="left">
+  <img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:40%" alt="Low Temperature Furnace">
+  <img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:80%" alt="High Temperature Furnace">
+</p>
 
