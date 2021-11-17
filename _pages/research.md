@@ -105,7 +105,7 @@ We work on various solidification and phase transformation problems listed below
   <img src="/images/research/cluster_room.png" style="width:59%" alt="Cluster Room"/>
 </p>
 <p align="middle">
-  <img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:39%" alt="Low Temperature Furnace">
-  <img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:59%" alt="High Temperature Furnace">
+  <img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:38%" alt="Low Temperature Furnace">
+  <img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:58%" alt="High Temperature Furnace">
 </p>
 
