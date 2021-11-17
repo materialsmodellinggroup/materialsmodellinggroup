@@ -23,12 +23,11 @@ We work on various solidification and phase transformation problems listed below
   <tbody>
     <tr>
       <td>
-        <p>Experimental and computational studies in:</p>
-        <ul>
-          <li>Eutectic systems</li>
-          <li>Monotectic systems</li>
-          <li>Ni-based superalloy</li>
-        </ul>
+        <p>Experimental and computational studies in:<br>
+          &#8226; Eutectic systems<br>
+          &#8226; Monotectic systems<br>
+          &#8226; Ni-based superalloy<br>
+        </p>
       </td>
       <td>
         <ul>
