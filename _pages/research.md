@@ -13,11 +13,11 @@ We work on various solidification and phase transformation problems listed below
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">Directional solidification</th>
-      <th scope="col">Additive manufacturing</th>
-      <th scope="col">Precipitation</th>
-      <th scope="col">Organic Photovoltaics</th>
-      <th scope="col">Atomization</th>
+      <th class="text-center" scope="col">Directional solidification</th>
+      <th class="text-center" scope="col">Additive manufacturing</th>
+      <th class="text-center" scope="col">Precipitation</th>
+      <th class="text-center" scope="col">Organic Photovoltaics</th>
+      <th class="text-center" scope="col">Atomization</th>
     </tr>
   </thead>
   <tbody>
