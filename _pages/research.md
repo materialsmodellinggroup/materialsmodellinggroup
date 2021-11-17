@@ -100,12 +100,11 @@ We work on various solidification and phase transformation problems listed below
   </tbody>
 </table>
 
-<p float="left">
+<p align="middle">
   <img src="/images/research/comp_lab.jpg" style="width:39%" alt="Computational Lab"/>
   <img src="/images/research/cluster_room.png" style="width:59%" alt="Cluster Room"/>
 </p>
-
-<p> float="left">
+<p align="middle">
   <img src="/images/research/low_temp_furnace.png" class="img-responsive" style="width:39%" alt="Low Temperature Furnace">
   <img src="/images/research/high_temp_furnace.png" class="img-responsive" style="width:59%" alt="High Temperature Furnace">
 </p>
