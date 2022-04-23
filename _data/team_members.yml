@@ -4,7 +4,7 @@
   email: tanmaydutta@iisc.ac.in
   topic: Solidification and phase transformation
   number_educ: 1
-  education1: PhD, Mechanical Engineering, IISc Bangalore
+  education1: PhD, Mechanical Engineering, IISc, Bangalore
   
   
 - name: Akshay Pratap Singh
@@ -13,7 +13,7 @@
   email: akshaysingh@iisc.ac.in
   topic:  Monotectic solidification
   number_educ: 1
-  education1: M.Tech, Metallurgical and Materials Engineering, IIT BHU
+  education1: MTech, Metallurgical and Materials Engineering, IIT BHU
 
 - name: <a href="https://swapnilbhure.github.io">Swapnil Bhure</a>
   photo: swapnil-bhure.jpg
@@ -21,7 +21,7 @@
   email: swapnilbhure@iisc.ac.in
   topic: Multi-scale modelling of metal additive manufacturing
   number_educ: 1
-  education1: ME, Design Engineering from BITS, Pilani
+  education1: ME, Design Engineering, BITS Pilani
   
   
 - name: Divya Nalajala
@@ -30,18 +30,53 @@
   email: divyan@iisc.ac.in
   topic: Directional solidification studies on Ni-based superalloy
   number_educ: 1
-  education1: M.Tech, Metallurgical and Materials Engineering, IIT Madras 
+  education1: MTech, Metallurgical and Materials Engineering, IIT Madras 
+
+- name: Somasish Bhowmick
+  photo: somasish-bhowmick.jpg
+  info: PhD, started Jan 2021
+  email: somasishb@iisc.ac.in
+  number_educ: 1
+  education1: MTech, Materials Engineering, IISc Bangalore
+  
+- name: Adem Ahmed Aliy
+  photo: adem-aliy.jpg
+  info: PhD, started Aug 2021
+  email: ademaliy@iisc.ac.in
+  number_educ: 0
+
+- name: Debargha Paul
+  photo: debargha-paul.jpg
+  info: PhD, started Jan 2022
+  email: debarghapaul@iisc.ac.in
+  number_educ: 1
+  education1: MTech, Metallurgical and Materials Engineering, IIT Roorkee
+
+
+- name: Aadhithyan K
+  photo: aadhithyan-k.jpg
+  info: MS thesis (2021-22)
+  email: aadhithyank@iisc.ac.in
+  topic: On using pycalphad
+  number_educ: 1
+  education1: BS-MS with major in Materials Science, IISc Bangalore
+
+- name: Yash
+  photo: yash.jpg
+  info: MS thesis (2021-22)
+  email: yash2@iisc.ac.in
+  number_educ: 1
+  education1: BS-MS with major in Materials Science, IISc Bangalore
 
 - name: Ajay Sagar
   photo: ajay-sagar.jpg
   info: >
     Project Assistant (started July 2021), 
-    
     MTech Thesis (2020-21)
   email: ajaysagar@iisc.ac.in
   topic: Integration of machine learning with phase field to study equilibrium precipitate shape
   number_educ: 1
-  education1: M.Tech, Materials Engineering from IISc Bangalore
+  education1: MTech, Materials Engineering, IISc Bangalore
   
   
 - name: Sangeeta Paul
@@ -49,13 +84,6 @@
   info: Project Assistant, started July 2021
   email: sangeetapaul@iisc.ac.in
   number_educ: 1
-  education1: M.Tech, Materials Engineering, IISc Bangalore
+  education1: MTech, Materials Engineering from IISc Bangalore
   
   
-  
-  
-  
-  
-  
-
-
