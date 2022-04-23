@@ -22,16 +22,16 @@ permalink: /research/
     <!-- Items -->
     <div class="carousel-inner" markdown="0" style="width:600px !important;">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/research/poster-energy.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/poster-energy.png" alt="Slide 1" class="center"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/research/poster-defense.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/poster-defense.png" alt="Slide 2" class="center"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/research/poster-software-development.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/poster-software-development.png" alt="Slide 3" class="center"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/research/poster-numerico-experimental.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/research/poster-numerico-experimental.png" alt="Slide 4" class="center"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
