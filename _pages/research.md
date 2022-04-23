@@ -94,8 +94,9 @@ We work on various solidification and phase transformation problems listed below
           <li>PanDat Software</li>
           <li>Simufact Additive</li>
         </ul>
+        <p>Access to Supercomputing facilities like <a href="http://www.serc.iisc.ac.in/supercomputer/for-traditional-hpc-simulations-param-pravega/">NSM Param Pravega</a> and <a href="http://www.serc.iisc.ac.in/roddam-narasimha-cluster/">RNC Cluster</a> at <a href="http://www.serc.iisc.ac.in/">SERC</a>, IISc</p>
       </td>
-      <p>Access to Supercomputing facilities like <a href="http://www.serc.iisc.ac.in/supercomputer/for-traditional-hpc-simulations-param-pravega/">NSM Param Pravega</a> and <a href="http://www.serc.iisc.ac.in/roddam-narasimha-cluster/">RNC Cluster</a> at <a href="http://www.serc.iisc.ac.in/">SERC</a>, IISc</p>
+      
       <td>
         <p>Bridgman furnaces:</p>
         <ul>
