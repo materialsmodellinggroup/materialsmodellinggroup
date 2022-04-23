@@ -20,7 +20,7 @@ permalink: /research/
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0" style="height:400px width:674px !important;">
+    <div class="carousel-inner" markdown="0" style="width:600px !important;">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/research/poster-energy.png" alt="Slide 1" />
         </div>
