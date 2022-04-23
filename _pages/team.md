@@ -32,7 +32,7 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 2 %}
-    {{ member.education1 }} <br>
+    {{ member.education1 }}
     {{ member.education2 }}
   {% endif %}
 
