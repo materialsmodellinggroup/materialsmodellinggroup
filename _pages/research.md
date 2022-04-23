@@ -88,17 +88,31 @@ We work on various solidification and phase transformation problems listed below
               <li>A total of 128 GB memory</li>
             </ul>
         </ul>
+        <p>Softwares available/used:</p>
+        <ul>
+          <li>OpenFOAM</li>
+          <li>PanDat Software</li>
+          <li>Simufact Additive</li>
+        </ul>
       </td>
+      <p>Access to Supercomputing facilities like <a href="http://www.serc.iisc.ac.in/supercomputer/for-traditional-hpc-simulations-param-pravega/">NSM Param Pravega</a> and <a href="http://www.serc.iisc.ac.in/roddam-narasimha-cluster/">RNC Cluster</a> at <a href="http://www.serc.iisc.ac.in/">SERC</a>, IISc</p>
       <td>
         <p>Bridgman furnaces:</p>
         <ul>
           <li>Two high temperature furnaces (upto about 1800&deg; C)</li>
           <li>Two low temperature furnaces (upto about 1000&deg; C)</li>
         </ul> 
+        <p>Access to <a href="https://materials.iisc.ac.in/facilities">department</a> and <a href="http://afmm.iisc.ac.in/afmm/">AFMM</a> microsopy facilities</p>
       </td>
     </tr>
   </tbody>
 </table>
+
+
+#### Software Development
+
+Our group is one of the core contributors to MicroSim, an open-source Microstructure Simulation software stack. The software is being developed under the Nation Supercomputing Mission, Government of India and <a href="https://github.com/ICME-India/MicroSim">available on GitHub</a>.
+
 
 <p align="middle">
   <img src="/images/research/comp_lab.jpg" style="width:39%" alt="Computational Lab"/>
