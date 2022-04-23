@@ -1,22 +1,53 @@
+- title: "Role of interfacial energy and liquid diffusivities on pattern formation during thin-film three-phase eutectic growth"
+  image: 2021-role-of-interface.jpg
+  description: In this paper, we investigate three-phase eutectic growth during thin-film directional solidification of a model symmetric ternary eutectic alloy.
+  authors: Sumeet Khanna, Abhik Choudhury
+  link:
+    url: https://link.springer.com/article/10.1007%2Fs10853-021-06434-8
+    display: Journal of Materials Science volume 56, pages 17646–17664 (2021)
+  highlight: 1
+  news2:
+
+- title: "Exotic three-phase microstructures in the ternary Ag-Cu-Sb eutectic system"
+  image: 2021-exotic-three-phase.jpg
+  description: This paper investigates the origin of three-phase microstructures along with two-phase growth instabilities that arise in the vicinity of three-phase eutectic composition.
+  authors: Aramanda Shanmukha Kiran, Kamanio Chattopadhyay, Abhik Choudhury
+  link:
+    url: http://dx.doi.org/10.1016/j.actamat.2021.117400
+    display: Acta Materialia 221(1-2):117400 (2021)
+  highlight: 1
+  news2:
+
 - title: "Three-Phase Eutectic Microstructures: Influence of Interfacial Energy Anisotropy and Solute Diffusivities"
   image: 2021-3-phase-hexagon.gif
   description: In this paper, we study three dimensional microstructural evolution in a symmetric ternary three-phase eutectic alloy using phase-field simulations under directional solidification conditions. 
   authors: Sumeet Khanna, Abhik Choudhury 
   link:
     url: https://link.springer.com/article/10.1007/s11661-021-06383-6
-    display:  Metallurgical and Materials Transactions A (2021)
+    display:  Metallurgical and Materials Transactions A volume 52, pages 4246–4263 (2021)
   highlight: 1
   news2:
-
-- title: "Exotic colony formation in Sn-Te eutectic system"
-  image: 2020-exotic-colony.jpg
-  description: This paper examines in detail the origin of the evolution of complex patterns that arises due to a two-phase growth instability induced by impurity addition.
-  authors: Shanmukha Kiran Aramanda, Sai Kiran Salapaka, Sumeet Khanna, Kamanio Chattopadhyay, Abhik Choudhury
+  
+- title: "Investigation of process–structure–property relationship in ternary organic photovoltaics"
+  image: 2020-process-structure.jpg
+  description: In this paper, we present an approach for deriving both the process–structure and structure–property correlations based on the diffuse-interface approach using phase-field simulations based on the Cahn–Hilliard formalism.
+  authors: Fiyanshu Kaka, Sumeet Khanna, P. C. Ramamurthy and Abhik Choudhury
   link:
-    url: https://doi.org/10.1016/j.actamat.2020.07.036
-    display:  Acta Materialia 197 (2020) 108-121
+    url: https://aip.scitation.org/doi/10.1063/5.0020863
+    display:  Journal of Applied Physics 128, 145501 (2020)
   highlight: 1
   news2:
+  
+- title: "Crystallographic and Morphological Evidence of Solid-Solid Interfacial Energy Anisotropy in the Sn-Zn Eutectic System"  
+  image: 2020-crystallographic-morphological.webp
+  description: In this paper, we explore the morphological evolution during two-phase growth in the Sn-Zn eutectic system, which has a particularly low volume fraction of the minority Zn phase.
+  authors: Shanmukha Kiran Aramanda, Sumeet Khanna, Sai Kiran Salapaka, Kamanio Chattopadhyay, Abhik Choudhury 
+  link:
+    url: https://link.springer.com/article/10.1007/s11661-020-06007-5
+    display:  Metallurgical and Materials Transactions A 51, 6387-6405 (2020)
+  highlight: 1
+  news2:
+  
 
 - title: "Role of Solid–Solid Interfacial Energy Anisotropy in the Formation of Broken Lamellar Structures in Eutectic Systems"
   image: 2020-role-solid.webp
@@ -28,16 +59,7 @@
   highlight: 1
   news2:
  
-- title: "Crystallographic and Morphological Evidence of Solid-Solid Interfacial Energy Anisotropy in the Sn-Zn Eutectic System"  
-  image: 2020-crystallographic-morphological.webp
-  description: In this paper, we explore the morphological evolution during two-phase growth in the Sn-Zn eutectic system, which has a particularly low volume fraction of the minority Zn phase.
-  authors: Shanmukha Kiran Aramanda, Sumeet Khanna, Sai Kiran Salapaka, Kamanio Chattopadhyay, Abhik Choudhury 
-  link:
-    url: https://link.springer.com/article/10.1007/s11661-020-06007-5
-    display:  Metallurgical and Materials Transactions A 51, 6387-6405 (2020)
-  highlight: 1
-  news2:
-  
+
   
 - title: "Equilibrium Multi-precipitate Configurations"
   image: 2020-equilibrium.webp
@@ -49,13 +71,47 @@
   highlight: 1
   news2:
   
-- title: "Investigation of process–structure–property relationship in ternary organic photovoltaics"
-  image: 2020-process-structure.jpg
-  description: In this paper, we present an approach for deriving both the process–structure and structure–property correlations based on the diffuse-interface approach using phase-field simulations based on the Cahn–Hilliard formalism.
-  authors: Fiyanshu Kaka, Sumeet Khanna, P. C. Ramamurthy and Abhik Choudhury
+- title: "Exotic colony formation in Sn-Te eutectic system"
+  image: 2020-exotic-colony.jpg
+  description: This paper examines in detail the origin of the evolution of complex patterns that arises due to a two-phase growth instability induced by impurity addition.
+  authors: Shanmukha Kiran Aramanda, Sai Kiran Salapaka, Sumeet Khanna, Kamanio Chattopadhyay, Abhik Choudhury
   link:
-    url: https://aip.scitation.org/doi/10.1063/5.0020863
-    display:  Journal of Applied Physics 128, 145501 (2020)
+    url: https://doi.org/10.1016/j.actamat.2020.07.036
+    display:  Acta Materialia 197 (2020) 108-121
+  highlight: 1
+  news2:
+
+  
+- title: Modeling process–structure–property relationship in organic photovoltaics using a robust diffuse interface approach
+  image:
+  description:
+  authors:  Fiyanshu Kaka, Ravi K. Singh, P. C. Ramamurthy, and Abhik Choudhury
+  link:
+    url: https://doi.org/10.1063/5.0009355
+    display: AIP Advances 10, 065304 (2020)
   highlight: 0
   news2:
   
+  
+- title: Dendrite tip selection during isothermal free growth in multi-component alloys: Marginal stability theories and insights from phase-field simulations
+  image:
+  description:
+  authors: Arka Lahiri, Abhik Choudhury
+  link:
+    url: http://dx.doi.org/10.1016/j.commatsci.2018.11.028
+    display: Computational Materials Science, Volume 158, Pages 209-218 (2019)
+  highlight: 0
+  news2:
+  
+- title: Phase-Field Modeling of Equilibrium Precipitate Shapes Under the Influence of Coherency Stresses
+  image:
+  description:
+  authors: Bhalchandra Bhadak, R. Sankarasubramanian, Abhik Choudhury 
+  link:
+    url: https://doi.org/10.1007/s11661-018-4835-5
+    display: Metallurgical and Materials Transactions A volume 49, pages 5705–5726 (2018)
+  highlight: 0
+  news2:
+  
+
+
