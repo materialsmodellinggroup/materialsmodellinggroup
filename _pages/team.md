@@ -23,7 +23,6 @@ permalink: /team/
   <br>
   <h4>{{ member.name }}</h4>
   <h5><i>{{ member.info }}</h5> <br> email: {{ member.email | encode_email }}
-  <ul style="overflow: hidden">
     
   {% if member.number_educ == 0 %}
   {% endif %}
@@ -58,7 +57,6 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -94,7 +92,6 @@ permalink: /team/
   <i>{{ member.info }} <br>email: {{ member.email | encode_email }}
 </i> 
   <br> Topic: {{ member.topic }}
-  <ul style="overflow: hidden">
  
       {% if member.number_educ == 0 %}
     {% endif %}
@@ -128,7 +125,6 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
-  </ul>
 </div>
   
 <div class="col-sm-1 clearfix">  
