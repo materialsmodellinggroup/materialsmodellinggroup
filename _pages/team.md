@@ -22,7 +22,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <br>
   <h4>{{ member.name }}</h4>
-  <h5><i>{{ member.info }}</h5> <br> email: {{ member.email | encode_email }}
+  <h5><i>{{ member.info }}</h5> <br> email: {{ member.email | encode_email }}</i>
     
   {% if member.number_educ == 0 %}
   {% endif %}
@@ -37,24 +37,24 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+    {{ member.education1 }} 
+    {{ member.education2 }}
+    {{ member.education3 }} 
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+   {{ member.education1 }} 
+   {{ member.education2 }} 
+   {{ member.education3 }}
+   {{ member.education4 }} 
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+   {{ member.education1 }} 
+   {{ member.education2 }} 
+   {{ member.education3 }} 
+   {{ member.education4 }} 
+   {{ member.education5 }} 
   {% endif %}
 
 </div>
@@ -105,24 +105,24 @@ permalink: /team/
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+   {{ member.education1 }} 
+   {{ member.education2 }} 
+   {{ member.education3 }} 
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+   {{ member.education1 }}
+   {{ member.education2 }}
+   {{ member.education3 }}
+   {{ member.education4 }}
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+   {{ member.education1 }}
+   {{ member.education2 }}
+   {{ member.education3 }}
+   {{ member.education4 }}
+   {{ member.education5 }}
   {% endif %}
 
 </div>
