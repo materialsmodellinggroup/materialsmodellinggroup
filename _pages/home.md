@@ -1,5 +1,5 @@
 ---
-title: "Materials Modelling Group - Home"
+title: "Materials Modelling Group at IISc "
 layout: homelay
 excerpt: "Materials Modelling Group at IISc."
 sitemap: false
@@ -26,7 +26,7 @@ Our group works on experimental and computational studies in directional solidif
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0" style="height:500px !important;">
+    <div class="carousel-inner" markdown="0" style="height:450px !important;">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/blue-mercedes.jpg" alt="Slide 1"/>
         </div>
