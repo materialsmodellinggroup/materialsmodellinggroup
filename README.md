@@ -1,1 +1,1 @@
-This repository hosts the website of Materials Modelling Group at Indian Institute of Science, Bengaluru, India.
+This repository hosts the website of <a href="https://materialsmodellinggroup.github.io/">Materials Modelling Group</a> at <a href="https://iisc.ac.in/">Indian Institute of Science, Bangalore</a>, India.
