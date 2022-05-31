@@ -257,7 +257,7 @@ permalink: /team/
 
 <div class="col-sm-5 clearfix">
 <h4>Research/Project Assistants</h4>
-{% for member in site.data.alumni_members_pa_ra_interns %}
+{% for member in site.data.alumni_members_pa_ra %}
 {{ member.name }}
 {% endfor %}
 </div>
@@ -267,7 +267,7 @@ permalink: /team/
   
 <div class="col-sm-5 clearfix">
 <h4>Interns</h4>
-{% for member in site.data.alumni_msc %}
+{% for member in site.data.alumni_members_interns %}
 {{ member.name }}
 {% endfor %}
 </div>
