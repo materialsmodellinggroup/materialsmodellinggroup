@@ -47,7 +47,6 @@
 
 - name: Debargha Paul
   photo: debargha-paul.jpg
-  info: PhD, started Jan 2022
   email: debarghapaul@iisc.ac.in
   number_educ: 1
   education1: MTech, Metallurgical and Materials Engineering, IIT Roorkee
@@ -67,6 +66,14 @@
   email: yash2@iisc.ac.in
   number_educ: 1
   education1: BS-MS with major in Materials Science, IISc Bangalore
+
+
+- name: Chintada Guna Sai
+  info: MS thesis (2022-23)
+  email: chintadaguna@iisc.ac.in
+  number_educ: 1
+  education1: BTech,Metallurgical and Materials Enineering, NIT Rourkela
+
 
 - name: Ajay Sagar
   photo: ajay-sagar.jpg
