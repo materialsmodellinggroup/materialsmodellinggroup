@@ -47,6 +47,7 @@
 
 - name: Debargha Paul
   photo: debargha-paul.jpg
+  info: PhD, started 2022
   email: debarghapaul@iisc.ac.in
   number_educ: 1
   education1: MTech, Metallurgical and Materials Engineering, IIT Roorkee
@@ -73,14 +74,14 @@
   info: MS thesis (2022-23)
   email: chintadaguna@iisc.ac.in
   number_educ: 1
-  education1: BTech, Metallurgical and Materials Enineering, NIT Rourkela
+  education1: BTech, Metallurgical and Materials Engineering, NIT Rourkela
 
 - name: Ankit Garhwal
   photo: ankit.jpg
   info: MS thesis (2022-23)
   email: ankitgarhwal@iisc.ac.in
   number_educ: 1
-  education1: BTech, Metallurgy and Materials Enineering, VNIT Nagpur
+  education1: BTech, Metallurgy and Materials Engineering, VNIT Nagpur
 
 - name: Ajay Sagar
   photo: ajay-sagar.jpg
