@@ -2,7 +2,7 @@
   photo: tanmay-dutta.jpg
   info: Senior Project Associate, started May 2021
   email: tanmaydutta@iisc.ac.in
-  topic: Solidification and phase transformation
+  topic: Solidification, Phase transformation, MicroSim
   number_educ: 1
   education1: PhD, Mechanical Engineering, IISc, Bangalore
   
@@ -31,13 +31,6 @@
   topic: Directional solidification studies on Ni-based superalloy
   number_educ: 1
   education1: MTech, Metallurgical and Materials Engineering, IIT Madras 
-
-- name: Somasish Bhowmick
-  photo: somasish-bhowmick.jpg
-  info: PhD, started Jan 2021
-  email: somasishb@iisc.ac.in
-  number_educ: 1
-  education1: MTech, Materials Engineering, IISc Bangalore
   
 - name: Adem Ahmed Aliy
   photo: adem-aliy.jpg
@@ -51,22 +44,6 @@
   email: debarghapaul@iisc.ac.in
   number_educ: 1
   education1: MTech, Metallurgical and Materials Engineering, IIT Roorkee
-
-
-- name: Aadhithyan K
-  photo: aadhithyan-k.jpg
-  info: MS thesis (2021-22)
-  email: aadhithyank@iisc.ac.in
-  topic: On using pycalphad
-  number_educ: 1
-  education1: BS-MS with major in Materials Science, IISc Bangalore
-
-- name: Yash
-  photo: yash.jpg
-  info: MS thesis (2021-22)
-  email: yash2@iisc.ac.in
-  number_educ: 1
-  education1: BS-MS with major in Materials Science, IISc Bangalore
 
 
 - name: Chintada Guna Sai
