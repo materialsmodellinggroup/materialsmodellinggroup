@@ -1,7 +1,20 @@
+- name: Aadhithyan K
+  photo: aadhithyan-k.jpg
+  duration: MS thesis (2021-22) 
+  number_educ: 0
+  education1: BS-MS with major in Materials Science, IISc Bangalore
+
+- name: Yash
+  photo: yash.jpg
+  duration: MS thesis (2021-22)
+  number_educ: 0
+  education1: BS-MS with major in Materials Science, IISc Bangalore
+
+
 - name: Kartik Umate
   photo: kartik-umate.jpg
   duration: BS (2020 - 2021)
-  current: Now, MS thesis at Pratt & Whitney R&D Center, IISc under Prof. Karthikeyan S.
+  current: Pursuing PhD at Max-Planck-Institut,GMBH
   number_educ: 0
 
 - name: Bikramjit Karmakar
