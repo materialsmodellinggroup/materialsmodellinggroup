@@ -1,11 +1,18 @@
 - name: <a href="https://scholar.google.co.in/citations?user=Jp5OWNcAAAAJ">Dr Tanmay Dutta</a>
   photo: tanmay-dutta.jpg
-  info: Senior Project Associate, started May 2021
+  info: Post Doctoral Research Associate, started May 2021
   email: tanmaydutta@iisc.ac.in
   topic: Solidification, Phase transformation, MicroSim
   number_educ: 1
   education1: PhD, Mechanical Engineering, IISc, Bangalore
   
+- name: <a href="https://sites.google.com/view/sanjeevjaiswal/">Dr Sanjeev Kumar</a>
+  photo: sanjeev_kumar.png
+  info: Post Doctoral Research Associate, started April 2023
+  email: sanjeevkumar@iisc.ac.in
+  topic: Fluid flow in solidification using Lattice Boltzmann Method (LBM)
+  number_educ: 1
+  education1: PhD, Civil Engineering, IISc, Bangalore
   
 - name: Akshay Pratap Singh
   photo: akshay-pratap-singh.jpg
@@ -38,14 +45,6 @@
   email: ademaliy@iisc.ac.in
   number_educ: 0
 
-- name: Debargha Paul
-  photo: debargha-paul.jpg
-  info: PhD, started 2022
-  email: debarghapaul@iisc.ac.in
-  number_educ: 1
-  education1: MTech, Metallurgical and Materials Engineering, IIT Roorkee
-
-
 - name: Chintada Guna Sai
   photo: guna.jpg
   info: MTech thesis (2022-23)
@@ -59,23 +58,3 @@
   email: ankitgarhwal@iisc.ac.in
   number_educ: 1
   education1: BTech, Metallurgy and Materials Engineering, VNIT Nagpur
-
-- name: Ajay Sagar
-  photo: ajay-sagar.jpg
-  info: >
-    Project Assistant (started July 2021), 
-    MTech Thesis (2020-21)
-  email: ajaysagar@iisc.ac.in
-  topic: Integration of machine learning with phase field to study equilibrium precipitate shape
-  number_educ: 1
-  education1: MTech, Materials Engineering, IISc Bangalore
-  
-  
-- name: Sangeeta Paul
-  photo: sangeeta-paul.jpg
-  info: Project Assistant, started July 2021
-  email: sangeetapaul@iisc.ac.in
-  number_educ: 1
-  education1: MTech, Materials Engineering from IISc Bangalore
-  
-  
