@@ -27,3 +27,21 @@
   duration: Summer Intern (2022)
   current: Currently, pursuing BTech at IIT, BHU
   number_educ: 0
+
+
+- name: Ajay Sagar
+  photo: ajay-sagar.jpg
+  duration: >
+    Project Assistant (July 2021-Dec 2022), 
+    MTech Thesis (2020-21)
+  current: Currently, working at IOCL
+  number_educ: 0
+  education1: MTech, Materials Engineering, IISc Bangalore
+  
+- name: Sangeeta Paul
+  photo: sangeeta-paul.jpg
+  duration: Project Assistant, (July 2021-Jan 2023)
+  number_educ: 0
+  education1: MTech, Materials Engineering from IISc Bangalore
+  
+  
