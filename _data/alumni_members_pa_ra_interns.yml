@@ -1,15 +1,3 @@
-- name: Nihal Acharya
-  photo: nihal-acharya.jpg
-  duration: Project Assistant (2017-2019)
-  current: Now, Associate Consultant Engineer (Research) at Eli Lilly and Company
-  number_educ: 0
-
-- name: Vinayak Shrote
-  photo: vinayak_shrote.jpg
-  duration: Summer Intern (2019)
-  current: Now, pursuing MS at UCLA, California, USA
-  number_educ: 0
-
 - name: Priyanshu Asthana
   photo: priyanshu_asthana.jpg
   duration: Summer Intern (2022)
@@ -28,20 +16,20 @@
   current: Currently, pursuing BTech at IIT, BHU
   number_educ: 0
 
-
-- name: Ajay Sagar
-  photo: ajay-sagar.jpg
-  duration: >
-    Project Assistant (July 2021-Dec 2022), 
-    MTech Thesis (2020-21)
-  current: Currently, working at IOCL
-  number_educ: 0
-  education1: MTech, Materials Engineering, IISc Bangalore
-  
 - name: Sangeeta Paul
   photo: sangeeta-paul.jpg
   duration: Project Assistant, (July 2021-Jan 2023)
   number_educ: 0
   education1: MTech, Materials Engineering from IISc Bangalore
   
-  
+- name: Vinayak Shrote
+  photo: vinayak_shrote.jpg
+  duration: Summer Intern (2019)
+  current: Now, pursuing MS at UCLA, California, USA
+  number_educ: 0
+ 
+- name: Nihal Acharya
+  photo: nihal-acharya.jpg
+  duration: Project Assistant (2017-2019)
+  current: Now, Associate Consultant Engineer (Research) at Eli Lilly and Company
+  number_educ: 0
