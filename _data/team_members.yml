@@ -1,4 +1,12 @@
-- name: <a href="https://swapnilbhure.github.io">Swapnil Shadanan Bhure</a>
+- name: Siddhartha Jaddivada
+  photo: sidhhartha.jpeg
+  info: Research Associate I, started May 2024
+  email: jaddivadas@iisc.ac.in
+  topic: 
+  number_educ: 1
+  education1: PhD, Mechanical Engineering, IISc Bangalore
+
+- name: <a href="https://swapnilbhure.github.io">Swapnil Bhure</a>
   photo: swapnil-bhure.jpg
   info: PhD, started Jan 2020
   email: swapnilbhure@iisc.ac.in
@@ -45,3 +53,11 @@
   topic: 
   number_educ: 1
   education1:  MTech, Materials Science and Metallurgical Engineering, IIT Hyderabad
+
+- name: Anshika Kushwaha
+  photo: 
+  info: Project Associate, started Aug 2023
+  email: anshikak@iisc.ac.in
+  topic: Developing post processing tools in MicroSim software package
+  number_educ: 0
+  education1:  BTech, Materials Science and Metallurgical Engineering, IIT Hyderabad
