@@ -1,60 +1,39 @@
-- name: <a href="https://scholar.google.co.in/citations?user=Jp5OWNcAAAAJ">Dr Tanmay Dutta</a>
-  photo: tanmay-dutta.jpg
-  info: Project Scientist, May 2023-present; Senior Project Associate, May 2021-Apr 2023
-  email: tanmaydutta@iisc.ac.in
-  topic: Solidification, Phase transformation, MicroSim
-  number_educ: 1
-  education1: PhD, Mechanical Engineering, IISc, Bangalore
-  
-- name: <a href="https://sites.google.com/view/sanjeevjaiswal/">Dr Sanjeev Kumar</a>
-  photo: sanjeev_kumar.png
-  info: Post Doctoral Research Associate, started April 2023
-  email: sanjeevkumar@iisc.ac.in
-  topic: Fluid flow in solidification using Lattice Boltzmann Method (LBM)
-  number_educ: 1
-  education1: PhD, Civil Engineering, IISc, Bangalore
-  
-- name: Akshay Pratap Singh
-  photo: akshay-pratap-singh.jpg
-  info: PhD, started Aug 2017
-  email: akshaysingh@iisc.ac.in
-  topic:  Monotectic solidification
-  number_educ: 1
-  education1: MTech, Metallurgical and Materials Engineering, IIT BHU
-
 - name: <a href="https://swapnilbhure.github.io">Swapnil Shadanan Bhure</a>
   photo: swapnil-bhure.jpg
   info: PhD, started Jan 2020
   email: swapnilbhure@iisc.ac.in
-  topic: Multi-scale modelling of metal additive manufacturing
+  topic: Multi-scale modelling and experimental study of metal additive manufacturing
   number_educ: 1
   education1: ME, Design Engineering, BITS Pilani
-  
   
 - name: Divya Nalajala
   photo: divya-nalajala.JPG
   info: PhD, started Aug 2020
   email: divyan@iisc.ac.in
-  topic: Directional solidification studies on Ni-based superalloy
+  topic: Directional solidification and additive manufacturing of Ni-based superalloy
   number_educ: 1
   education1: MTech, Metallurgical and Materials Engineering, IIT Madras 
-  
-- name: Adem Ahmed Aliy
-  photo: adem-aliy.jpg
-  info: PhD, started Aug 2021
-  email: ademaliy@iisc.ac.in
+
+- name: Manoja Namadi
+  photo: 
+  info: PhD, started Jan 2021
+  email: namadimanoja@iisc.ac.in
+  topic: Directional solidification of Eutectic systems
+  number_educ: 1
+  education1: MTech, Metallurgical Engineering and Materials Science, IIT Bombay 
+
+- name: Dhanyashree MD
+  photo: 
+  info: PhD, started Aug 2023
+  email: dhanyashreem@iisc.ac.in
+  topic: Additive manufacturing of Ti alloys
+  number_educ: 1
+  education1: MTech, Department of Metallurgical and Materials Engineering, IIT Jodhpur 
+
+- name: Padmanathan M
+  photo: 
+  info: Ext-PhD, started Aug 2023
+  email: padmanathanm@iisc.ac.in
+  topic: Directional solidification
   number_educ: 0
-
-- name: Chintada Guna Sai
-  photo: guna.jpg
-  info: MTech thesis (2022-23)
-  email: chintadaguna@iisc.ac.in
-  number_educ: 1
-  education1: BTech, Metallurgical and Materials Engineering, NIT Rourkela
-
-- name: Ankit Garhwal
-  photo: ankit.jpg
-  info: MTech thesis (2022-23)
-  email: ankitgarhwal@iisc.ac.in
-  number_educ: 1
-  education1: BTech, Metallurgy and Materials Engineering, VNIT Nagpur
+  education1:  
