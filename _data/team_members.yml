@@ -28,7 +28,7 @@
   email: dhanyashreem@iisc.ac.in
   topic: Additive manufacturing of Ti alloys
   number_educ: 1
-  education1: MTech, Department of Metallurgical and Materials Engineering, IIT Jodhpur 
+  education1: MTech, Metallurgical and Materials Engineering, IIT Jodhpur 
 
 - name: Padmanathan M
   photo: 
@@ -37,3 +37,11 @@
   topic: Directional solidification
   number_educ: 0
   education1:  
+
+- name: Srilekha H
+  photo: 
+  info: MTech thesis, started Aug 2023
+  email: srih@iisc.ac.in
+  topic: 
+  number_educ: 1
+  education1:  MTech, Materials Science and Metallurgical Engineering, IIT Hyderabad
