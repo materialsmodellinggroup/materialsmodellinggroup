@@ -78,9 +78,9 @@ We work on various solidification and phase transformation problems listed below
         <ul>
           <li>CPU Clusters:</li>
             <ul>
-              <li>Two clusters have 96 physical cores each</li>
-              <li>One cluster has 112 physical cores</li>
-              <li>A total of 304 physical cores</li>
+              <li>One cluster with 1024 physical cores</li>
+              <li>One cluster with 288 physical cores</li>
+              <li>A total of 1312 physical cores</li>
             </ul>
           <li>GPU Cluster:</li>
             <ul>
@@ -112,7 +112,7 @@ We work on various solidification and phase transformation problems listed below
 
 #### Software Development
 
-Our group is one of the core contributors to MicroSim, an open-source Microstructure Simulation software stack. The software is being developed under the Nation Supercomputing Mission, Government of India and <a href="https://github.com/ICME-India/MicroSim">available on GitHub</a>.
+Our group is one of the core contributors to <a href="https://microsim.co.in">MicroSim</a>, an open-source Microstructure Simulation software stack. The software is being developed under the Nation Supercomputing Mission, Government of India and <a href="https://github.com/ICME-India/MicroSim">available on GitHub</a>. Previous workshop videos are available on our <a href="https://www.youtube.com/@microsim">YouTube channel</a>.
 
 
 <p align="middle">
