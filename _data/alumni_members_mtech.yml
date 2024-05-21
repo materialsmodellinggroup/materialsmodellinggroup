@@ -1,8 +1,22 @@
+- name: Chintada Guna Sai
+  photo: guna.jpg
+  duration: MTech thesis (2022-23)
+  current: Now, PhD Scholar at CeNSE, IISc Bangalore
+  number_educ: 0
+  education1: BTech, Metallurgical and Materials Engineering, NIT Rourkela
+
+- name: Ankit Garhwal
+  photo: ankit.jpg
+  duration: MTech thesis (2022-23)
+  current: Engineer at Applied Materials
+  number_educ: 0
+  education1: BTech, Metallurgy and Materials Engineering, VNIT Nagpur
+
 - name: Ajay Sagar
   photo: ajay-sagar.jpg
   duration: >
     Project Assistant (July 2021-Dec 2022), 
-    MTech Thesis (2020-21)
+    MTech thesis (2020-21)
   current: Currently, working at IOCL
   number_educ: 0
   education1: MTech, Materials Engineering, IISc Bangalore
@@ -10,13 +24,13 @@
 
 - name: Ravi Kumar Singh
   photo: ravi-kumar-singh.jpg
-  duration: M.Tech (Aug 2018 - July 2019)
+  duration: MTech thesis (Aug 2018 - July 2019)
   current: Now, Computational Scientist at ExxonMobil, Bengaluru
   number_educ: 0
   
 - name: Somasish Bhowmick
   photo: somasish-bhowmick.jpg
-  duration: M.Tech (Aug 2018 - July 2019)
+  duration: MTech (Aug 2018 - July 2019)
   number_educ: 0
   education1: MTech, Materials Engineering, IISc Bangalore
   
