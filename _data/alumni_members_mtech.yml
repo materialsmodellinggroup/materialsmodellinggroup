@@ -1,3 +1,11 @@
+- name: Srilekha H
+  photo: srilekha.jpg
+  duration: MTech thesis (2023-24)
+  current: Research Engineer, Saint Gobain Research India
+  # topic: Phase field simulation of spinodal decomposition in Fe-Cr-Co alloy
+  number_educ: 0
+  education1:  BTech, Materials Science and Metallurgical Engineering, IIT Hyderabad
+
 - name: Chintada Guna Sai
   photo: guna.jpg
   duration: MTech thesis (2022-23)

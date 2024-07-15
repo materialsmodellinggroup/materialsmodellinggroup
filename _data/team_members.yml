@@ -1,8 +1,8 @@
-- name: Dr Siddhartha Jaddivada
-  photo: siddhartha.jpeg
+a- name: Dr Siddhartha Jaddivada
+  photo: SiddharthaJ.jpg
   info: Research Associate I, started May 2024
   email: jaddivadas@iisc.ac.in
-  topic: 
+  topic: Numerical study on Bridgman setup
   number_educ: 1
   education1: PhD, Mechanical Engineering, IISc Bangalore
 
@@ -26,17 +26,25 @@
   photo: 
   info: PhD, started Jan 2021
   email: namadimanoja@iisc.ac.in
-  topic: Directional solidification of Eutectic systems
+  topic: Directional solidification of monotectic alloy systems
   number_educ: 1
   education1: MTech, Metallurgical Engineering and Materials Science, IIT Bombay 
 
 - name: Dhanyashree MD
-  photo: 
+  photo: Dhanyashree.jpg
   info: PhD, started Aug 2023
   email: dhanyashreem@iisc.ac.in
   topic: Additive manufacturing of Ti alloys
   number_educ: 1
-  education1: MTech, Metallurgical and Materials Engineering, IIT Jodhpur 
+  education1: MTech, Metallurgical and Materials Engineering, IIT Jodhpur
+
+- name: <a href="http://www.linkedin.com/in/rupesh-j-9803441b3/">Rupesh Jangam</a>
+  photo: Rupesh.jpg
+  info: PhD, started May 2024
+  email: rupeshjangam@iisc.ac.in
+  topic: Modelling studies on Rapid Solidification
+  number_educ: 1
+  education1: BTech, Metallurgical and Materials Engineering, JNTU Hyderabad 
 
 - name: Padmanathan M
   photo: 
@@ -46,18 +54,18 @@
   number_educ: 0
   education1:
 
-- name: Srilekha H
-  photo: 
-  info: MTech thesis, started Aug 2023
-  email: srih@iisc.ac.in
-  topic: 
-  number_educ: 1
-  education1:  MTech, Materials Science and Metallurgical Engineering, IIT Hyderabad
-
-- name: Anshika Kushwaha
-  photo: 
-  info: Project Associate, started Aug 2023
+- name:  <a href="https://www.linkedin.com/in/anshika-kushwaha21/">Anshika Kushwaha</a> 
+  photo: anshikak.jpg
+  info: Project Associate, started July 2023
   email: anshikak@iisc.ac.in
   topic: Developing post processing tools in MicroSim software package
+  number_educ: 1
+  education1:  BTech, Chemical Engineering, BIET Jhansi
+
+- name: Subhodeep Jana
+  photo: Subhodeep,jpg
+  info: Senior Project Associate, started April 2024
+  email: subhodeepj@iisc.ac.in
+  topic: Directional solidification
   number_educ: 0
-  education1:  BTech, Materials Science and Metallurgical Engineering, IIT Hyderabad
+  education1: Phd, IIEST Shibpur 
