@@ -1,8 +1,8 @@
-a- name: Dr Siddhartha Jaddivada
+- name: Dr Siddhartha Jaddivada
   photo: SiddharthaJ.jpg
   info: Research Associate I, started May 2024
   email: jaddivadas@iisc.ac.in
-  topic: Numerical study on Bridgman setup
+  topic: Numerical study on Bridgman setup
   number_educ: 1
   education1: PhD, Mechanical Engineering, IISc Bangalore
 
