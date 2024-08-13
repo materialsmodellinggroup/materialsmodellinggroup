@@ -28,7 +28,15 @@
   email: namadimanoja@iisc.ac.in
   topic: Directional solidification of monotectic alloy systems
   number_educ: 1
-  education1: MTech, Metallurgical Engineering and Materials Science, IIT Bombay 
+  education1: MTech, Metallurgical Engineering and Materials Science, IIT Bombay
+
+- name:  <a href="https://www.linkedin.com/in/anshika-kushwaha21/">Anshika Kushwaha</a> 
+  photo: anshikak.jpg
+  info: Project Associate, started July 2023
+  email: anshikak@iisc.ac.in
+  topic: Developing post processing tools in MicroSim software package
+  number_educ: 0
+  education1:  BTech, Chemical Engineering, BIET Jhansi
 
 - name: Dhanyashree MD
   photo: Dhanyashree.jpg
@@ -40,7 +48,7 @@
 
 - name: <a href="http://www.linkedin.com/in/rupesh-j-9803441b3/">Rupesh Jangam</a>
   photo: Rupesh.jpg
-  info: PhD, started May 2024
+  info: PhD, started August 2023
   email: rupeshjangam@iisc.ac.in
   topic: Modelling studies on Rapid Solidification
   number_educ: 1
@@ -54,13 +62,37 @@
   number_educ: 0
   education1:
 
-- name:  <a href="https://www.linkedin.com/in/anshika-kushwaha21/">Anshika Kushwaha</a> 
-  photo: anshikak.jpg
-  info: Project Associate, started July 2023
-  email: anshikak@iisc.ac.in
-  topic: Developing post processing tools in MicroSim software package
-  number_educ: 0
-  education1:  BTech, Chemical Engineering, BIET Jhansi
+- name: <a href="https://chirantandip.github.io/">Chirantandip Mahanta</a>
+  photo: chirantandip.jpg
+  info: PhD, started August 2024
+  email: chirantandi5@iisc.ac.in
+  topic: ICME, Phase Field Modelling
+  number_educ: 1
+  education1: IDDD Computational Engineering, B. Tech Metallurgical and Materials Engineering, IIT Madras
+
+- name: Ashitha Pattabi
+  photo: ashitha.jpg
+  info: PhD, started Aug 2024
+  email: ashithap@iisc.ac.in
+  topic: Diffusion, coarsening behaviour and creep in Ni base superalloys
+  number_educ: 1
+  education1: M.S.(Res), IIT Delhi
+
+- name: <a href="https://www.linkedin.com/in/satvik-r-kashyap-9aa8311ba/">Satvik R Kashyap</a>
+  photo: satvik.jpg
+  info: Phd, started Aug 2024
+  email: satvikk@iisc.ac.in
+  topic: Multiscale modelling of battery materials
+  number_educ: 1
+  education1: B.Tech Metallurgical and Materials Engineering, NIT Surathkal
+
+- name: Sanjana Ishwarabhotla
+  photo: sanjana.jpg
+  info: Masters thesis, started Aug 2024
+  email: sanjanai@iisc.ac.in
+  topic: Phase field modelling on electrochemical reactions
+  number_educ: 1
+  education1: B.Tech Metallurgical Engineerig, JNTU Hyderabad
 
 - name: Subhodeep Jana
   photo: Subhodeep.jpg

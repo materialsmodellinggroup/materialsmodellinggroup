@@ -1,3 +1,73 @@
+# - title: "Near single-crystalline CMSX-4 superalloy builds with laser-directed energy deposition (L-DED) using model-informed experiments"
+#   image: 
+#   description: 
+#   authors: Swapnil Bhure, Divya Nalajala, Abhik Choudhury
+#   link:
+#     url: 
+#     display: Conference SUPERALLOYS 2024
+#   highlight: 0
+#   news2:
+  
+- title: "MICROSIM: A high performance phase-field solver based on CPU and GPU implementations"
+  image: .jpg
+  description: 
+  authors: Tanmay Dutta, Dasari Mohan, Saurav Shenoy, Nasir Attar, Abhikshek Kalokhe, Ajay Sagar, Swapnil Bhure, Swaroop S Pradhan, Jitendriya Praharaj, Subham Mridha, Anshika Kushwaha, Vaishali Shah, M. P. Gururajan, Venkatesh Shenoi, Gandham Phanikumar, Saswata Bhattacharyya, Abhik Choudhury
+  link: 
+    url: https://doi.org/10.48550/arXiv.2404.01035 
+    display:  Pre-print (2024)
+  highlight: 0
+  news2:
+  
+- title: "Unveiling the Intricacies of a Ductile‐Phase Toughened Intermetallic: An In‐Depth Exploration of a Eutectic Mo–Si–Ti Alloy and its Mechanical Behavior"
+  image: 
+  description: 
+  authors: R.J. Vikram, Aramanda Shanmukha, Daniel SchliephakeShow, Alexander Kauffman, Abhik Choudhury, Martin Heilmaier, Satyam Suwas
+  link:
+    url: http://dx.doi.org/10.1002/adem.202301843
+    display: Advanced Engineering Materials 10.1002/adem.202301843 (2024)
+  highlight: 0
+  news2:
+
+- title: "Splitting Instability in Superalloys: A Phase-Field Study"
+  image:
+  description:
+  authors: Tushar Jogi, Saurav Shenoy, Ramachandran Sankarasubramanian, Abhik Choudhury, Saswata Bhattacharyya
+  link:
+    url: http://dx.doi.org/10.13140/RG.2.2.22287.15522
+    display: 10.13140/RG.2.2.22287.15522 (2024)
+  highlight: 0
+  news2: 
+
+- title: "Modeling Properties and Phenomena at High Temperatures: Atomistic and Phase-Field Approaches"
+  image:
+  description:
+  authors: R. Ramakrishnan, Ramachandran Sankarasubramanian, Abhik Choudhury, Saswata Bhattacharyya
+  link:
+    url: http://dx.doi.org/10.1016/B978-0-323-85935-6.00021-0
+    display: 10.1016/B978-0-323-85935-6.00021-0 (2024)
+  highlight: 0
+  news2: 
+
+- title: "Toward DS/SX Ni-Based Superalloy Components Using L-DED: A Multi-scale Modeling and Experimental Approach"
+  image:
+  description:
+  authors: Swapnil Bhure, Divya Nalajala, Abhik Choudhury
+  link:
+    url: http://dx.doi.org/10.1007/s12666-023-03173-z
+    display: Transactions of the Indian Institute of Metals. 10.1007/s12666-023-03173-z (2024)
+  highlight: 0
+  news2: 
+
+- title: "Effect of grain-boundary character on segregation of vacancies: Thermodynamic aspects"
+  image:
+  description:
+  authors: Subham Mridha, Abhik Choudhury, Karthikeyan Subramanian
+  link:
+    url: http://dx.doi.org/10.1103/PhysRevMaterials.7.113605
+    display:  Physical Review Materials. 7. 10.1103/PhysRevMaterials.7.113605 (2023)
+  highlight: 0
+  news2:
+
 - title: "Role of interfacial energy and liquid diffusivities on pattern formation during thin-film three-phase eutectic growth"
   image: 2021-role-of-interface.jpg
   description: In this paper, we investigate three-phase eutectic growth during thin-film directional solidification of a model symmetric ternary eutectic alloy.
@@ -58,7 +128,6 @@
     display:  Metallurgical and Materials Transactions A 51, 6327–6345 (2020)
   highlight: 1
   news2:
- 
 
   
 - title: "Equilibrium Multi-precipitate Configurations"
